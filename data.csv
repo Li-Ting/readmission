@@ -1,0 +1,923 @@
+State,Days,Readmitted Primary Diagnosis,Division,Sex_code,Age Group,Year,Month,Date_code,date,Quarter,Readmission,Discharge,Region,Sex
+MA,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,1,Youth,2014,12,28,12/28/2014,Q4,323,2433,MASSACHUSETTS,Male
+NC,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Youth,2014,12,28,12/28/2014,Q4,201,1401,NORTH CAROLINA,Female
+UT,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,2,Adult,2014,12,27,12/27/2014,Q4,324,2263,UTAH,Female
+KY,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Adult,2014,12,26,12/26/2014,Q4,2469,11301,KENTUCKY,Female
+CO,30,Occlusion and stenosis of left anterior cerebral artery,Division of Cardiology,2,Youth,2014,12,25,12/25/2014,Q4,194,1337,COLORADO,Female
+DC,30,Other nontraumatic subarachnoid hemorrhage,Division of Chest,2,Adult,2014,12,22,12/22/2014,Q4,1782,8916,DISTRICT OF COLUMBIA,Female
+NE,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,2,Youth,2014,12,18,12/18/2014,Q4,218,1421,State of Nebraska,Female
+NJ,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,12,16,12/16/2014,Q4,51,578,NEW JERSEY,Male
+IN,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,1,Adult,2014,12,14,12/14/2014,Q4,2278,10093,INDIANA,Male
+WY,30,Cerebral infarction due to embolism of left carotid artery,Division of Chest,2,Youth,2014,12,12,12/12/2014,Q4,56,483,WYOMING,Female
+AZ,30,Occlusion and stenosis of unspecified middle cerebral artery,Division of Cardiology,2,Youth,2014,12,12,12/12/2014,Q4,176,1331,ARIZONA,Female
+OK,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,1,Adult,2014,12,10,12/10/2014,Q4,179,1171,OKLAHOMA,Male
+TX,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,2,Adult,2014,12,9,12/09/2014,Q4,320,2383,TEXAS,Female
+NV,30,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,12,7,12/07/2014,Q4,56,564,NEVADA,Male
+IN,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Hematology & Oncology,1,Youth,2014,12,6,12/06/2014,Q4,287,2234,INDIANA,Male
+IL,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,1,Youth,2014,12,5,12/05/2014,Q4,276,2322,ILLINOIS,Male
+SD,30,Occlusion and stenosis of left middle cerebral artery,Division of Chest,2,Adult,2014,12,3,12/03/2014,Q4,301,1706,SOUTH DAKOTA,Female
+OH,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiology,1,Adult,2014,11,21,11/21/2014,Q4,154,1035,OHIO,Male
+WI,30,"Cerebrovascular disease, unspecified",Division of Cardiology,1,Adult,2014,11,16,11/16/2014,Q4,185,1120,WISCONSIN,Male
+AS,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Chest,2,Adult,2014,10,28,10/28/2014,Q4,1592,7436,American Samoa,Female
+MA,30,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Cardiology,2,Youth,2014,10,28,10/28/2014,Q4,103,738,MASSACHUSETTS,Female
+LA,30,Other nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Youth,2014,10,25,10/25/2014,Q4,99,783,LOUISIANA,Female
+OR,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Chest,1,Adult,2014,10,21,10/21/2014,Q4,181,893,OREGON,Male
+ID,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,1,Adult,2014,10,20,10/20/2014,Q4,3617,18542,IDAHO,Male
+NY,30,Cerebral infarction due to embolism of left carotid artery,Division of Chest,1,Adult,2014,10,19,10/19/2014,Q4,133,782,NEW YORK,Male
+MS,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,2,Youth,2014,10,19,10/19/2014,Q4,583,4309,MISSISSIPPI,Female
+VA,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2014,10,18,10/18/2014,Q4,31,259,VIRGINIA,Female
+VT,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,2,Youth,2014,10,16,10/16/2014,Q4,75,644,VERMONT,Female
+AS,30,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Cardiology,2,Youth,2014,10,16,10/16/2014,Q4,136,810,American Samoa,Female
+MP,30,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Youth,2014,10,13,10/13/2014,Q4,531,4189,Sankattan Siha Na Islas Mari?nas,Female
+WI,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Youth,2014,10,12,10/12/2014,Q4,90,707,WISCONSIN,Female
+NJ,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,1,Adult,2014,10,10,10/10/2014,Q4,111,571,NEW JERSEY,Male
+CA,30,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Chest,2,Adult,2014,10,7,10/07/2014,Q4,1666,8677,CALIFORNIA,Female
+ME,30,Occlusion and stenosis of left carotid artery,Division of Cardiology,2,Youth,2014,10,7,10/07/2014,Q4,114,829,MAINE,Female
+GU,30,Occlusion and stenosis of bilateral carotid arteries,Division of Chest,1,Adult,2014,10,4,10/04/2014,Q4,3374,16569,Guam,Male
+DE,30,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiology,1,Adult,2014,10,4,10/04/2014,Q4,1035,4250,DELAWARE,Male
+AR,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Chest,2,Youth,2014,10,3,10/03/2014,Q4,79,530,ARKANSAS,Female
+TN,30,Occlusion and stenosis of unspecified carotid artery,Division of Chest,2,Youth,2014,10,2,10/02/2014,Q4,24,218,TENNESSEE,Female
+TX,30,"Cerebrovascular disease, unspecified",Division of Chest,2,Youth,2014,10,2,10/02/2014,Q4,25,279,TEXAS,Female
+RI,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2014,10,2,10/02/2014,Q4,268,1481,RHODE ISLAND,Female
+FL,30,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiology,1,Adult,2014,10,2,10/02/2014,Q4,1047,4830,FLORIDA,Male
+HI,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,1,Adult,2014,10,2,10/02/2014,Q4,1081,5105,HAWAII,Male
+KY,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Adult,2014,9,28,09/28/2014,Q3,2469,11301,KENTUCKY,Female
+PR,30,"Cerebrovascular disease, unspecified",Division of Cardiology,1,Adult,2014,9,25,09/25/2014,Q3,259,1410,PUERTO RICO,Male
+TX,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,2,Adult,2014,9,19,09/19/2014,Q3,320,2383,TEXAS,Female
+WV,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiology,2,Youth,2014,9,18,09/18/2014,Q3,95,675,WEST VIRGINIA,Female
+AZ,30,Occlusion and stenosis of unspecified middle cerebral artery,Division of Cardiology,2,Youth,2014,9,17,09/17/2014,Q3,176,1331,ARIZONA,Female
+MN,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,2,Youth,2014,9,15,09/15/2014,Q3,128,801,MINNESOTA,Female
+ID,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,1,Adult,2014,9,14,09/14/2014,Q3,1285,5590,IDAHO,Male
+OK,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,1,Adult,2014,9,13,09/13/2014,Q3,188,1105,OKLAHOMA,Male
+VI,30,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,2,Youth,2014,9,12,09/12/2014,Q3,74,647,VIRGIA ISLAND,Female
+MI,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiology,2,Youth,2014,9,10,09/10/2014,Q3,119,820,MICHIGAN,Female
+NV,30,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,9,8,09/08/2014,Q3,56,564,NEVADA,Male
+UT,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,2,Adult,2014,9,6,09/06/2014,Q3,324,2263,UTAH,Female
+GA,30,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Cardiology,1,Adult,2014,9,6,09/06/2014,Q3,1069,4683,GEORGIA,Male
+CO,30,Occlusion and stenosis of left anterior cerebral artery,Division of Cardiology,2,Youth,2014,9,1,09/01/2014,Q3,194,1337,COLORADO,Female
+IN,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,1,Adult,2014,9,1,09/01/2014,Q3,2278,10093,INDIANA,Male
+CT,30,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,Division of Chest,2,Adult,2014,8,26,08/26/2014,Q3,1718,8259,CONNECTICUT,Female
+MP,30,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Youth,2014,8,24,08/24/2014,Q3,531,4189,Sankattan Siha Na Islas Mari?nas,Female
+MS,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,2,Youth,2014,8,14,08/14/2014,Q3,583,4309,MISSISSIPPI,Female
+KY,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,1,Youth,2014,8,12,08/12/2014,Q3,299,2221,KENTUCKY,Male
+NJ,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,8,11,08/11/2014,Q3,51,578,NEW JERSEY,Male
+GU,30,Occlusion and stenosis of bilateral carotid arteries,Division of Chest,1,Adult,2014,8,7,08/07/2014,Q3,3374,16569,Guam,Male
+LA,30,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,1,Youth,2014,8,7,08/07/2014,Q3,314,2275,LOUISIANA,Male
+GA,30,Occlusion and stenosis of left carotid artery,Division of Chest,1,Adult,2014,8,5,08/05/2014,Q3,2063,9923,GEORGIA,Male
+ID,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,1,Adult,2014,8,2,08/02/2014,Q3,3617,18542,IDAHO,Male
+UT,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2014,7,26,07/26/2014,Q3,28,279,UTAH,Female
+OK,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,1,Adult,2014,7,20,07/20/2014,Q3,179,1171,OKLAHOMA,Male
+NM,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,1,Adult,2014,7,19,07/19/2014,Q3,117,627,NEW MEXICO,Male
+PA,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Chest,1,Adult,2014,7,19,07/19/2014,Q3,191,939,PENNSYLVANIA,Male
+SD,30,Occlusion and stenosis of left middle cerebral artery,Division of Chest,2,Adult,2014,7,16,07/16/2014,Q3,301,1706,SOUTH DAKOTA,Female
+WA,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,2,Youth,2014,7,12,07/12/2014,Q3,37,244,WASHINGTON,Female
+WY,30,Cerebral infarction due to embolism of left carotid artery,Division of Chest,2,Youth,2014,7,12,07/12/2014,Q3,56,483,WYOMING,Female
+AR,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Chest,2,Youth,2014,7,7,07/07/2014,Q3,79,530,ARKANSAS,Female
+NE,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,2,Youth,2014,7,4,07/04/2014,Q3,218,1421,State of Nebraska,Female
+NC,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Youth,2014,7,3,07/03/2014,Q3,201,1401,NORTH CAROLINA,Female
+VT,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,2,Youth,2014,6,26,06/26/2014,Q2,33,285,VERMONT,Female
+ND,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2014,6,26,06/26/2014,Q2,215,1383,NORTH DAKOTA,Female
+AZ,30,Cerebral infarction due to embolism of basilar artery,Division of Chest,2,Adult,2014,6,25,06/25/2014,Q2,1634,8210,ARIZONA,Female
+AK,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Chest,2,Youth,2014,6,24,06/24/2014,Q2,57,478,ALASKA,Female
+AL,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,2,Youth,2014,6,24,06/24/2014,Q2,61,519,ALABAMA,Female
+MO,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,2,Youth,2014,6,24,06/24/2014,Q2,128,870,MISSOURI,Female
+FL,30,Occlusion and stenosis of right carotid artery,Division of Chest,2,Adult,2014,6,22,06/22/2014,Q2,2028,10045,FLORIDA,Female
+MP,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,2,Youth,2014,6,19,06/19/2014,Q2,136,901,Sankattan Siha Na Islas Mari?nas,Female
+SC,30,Occlusion and stenosis of right middle cerebral artery,Division of Chest,1,Adult,2014,6,18,06/18/2014,Q2,223,1225,SOUTH CAROLINA,Male
+MT,30,"Cerebrovascular disease, unspecified",Division of Cardiology,2,Youth,2014,6,18,06/18/2014,Q2,185,1268,MONTANA,Female
+MD,30,Cerebral infarction due to thrombosis of other precerebral artery,Division of Hematology & Oncology,1,Youth,2014,6,15,06/15/2014,Q2,334,2582,MARYLAND,Male
+IA,30,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,1,Adult,2014,6,13,06/13/2014,Q2,3423,17804,IOWA,Male
+HI,30,Occlusion and stenosis of unspecified carotid artery,Division of Chest,1,Adult,2014,6,9,06/09/2014,Q2,3384,16034,HAWAII,Male
+PR,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,1,Adult,2014,6,6,06/06/2014,Q2,198,1147,PUERTO RICO,Male
+RI,30,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Chest,1,Adult,2014,6,4,06/04/2014,Q2,209,988,RHODE ISLAND,Male
+VI,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,2,Youth,2014,6,4,06/04/2014,Q2,32,318,VIRGIA ISLAND,Female
+IL,30,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,1,Adult,2014,6,4,06/04/2014,Q2,2256,9450,ILLINOIS,Male
+KS,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiology,1,Adult,2014,6,2,06/02/2014,Q2,2422,11189,KANSAS,Male
+NV,30,Cerebral infarction due to embolism of right carotid artery,Division of Chest,1,Adult,2014,6,1,06/01/2014,Q2,128,651,NEVADA,Male
+CT,30,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Cardiology,1,Adult,2014,5,27,05/27/2014,Q2,1022,4671,CONNECTICUT,Male
+OR,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,1,Adult,2014,5,24,05/24/2014,Q2,192,1146,OREGON,Male
+AK,30,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Cardiology,2,Youth,2014,5,24,05/24/2014,Q2,106,738,ALASKA,Female
+SD,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiology,2,Adult,2014,5,20,05/20/2014,Q2,282,1541,SOUTH DAKOTA,Female
+AR,30,Occlusion and stenosis of left middle cerebral artery,Division of Cardiology,2,Youth,2014,5,18,05/18/2014,Q2,128,1150,ARKANSAS,Female
+CA,30,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiology,2,Youth,2014,5,18,05/18/2014,Q2,182,1345,CALIFORNIA,Female
+NY,30,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,5,14,05/14/2014,Q2,69,617,NEW YORK,Male
+VA,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,2,Adult,2014,5,4,05/04/2014,Q2,359,2273,VIRGINIA,Female
+NM,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,5,3,05/03/2014,Q2,55,679,NEW MEXICO,Male
+WY,30,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Youth,2014,5,2,05/02/2014,Q2,96,729,WYOMING,Female
+IA,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,1,Adult,2014,5,2,05/02/2014,Q2,1186,5502,IOWA,Male
+SC,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2014,5,2,05/02/2014,Q2,275,2327,SOUTH CAROLINA,Female
+MN,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Hematology & Oncology,2,Youth,2014,4,26,04/26/2014,Q2,513,4057,MINNESOTA,Female
+ME,30,Cerebral infarction due to embolism of other precerebral artery,Division of Hematology & Oncology,1,Youth,2014,4,16,04/16/2014,Q2,339,2500,MAINE,Male
+MO,30,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2014,4,10,04/10/2014,Q2,528,4230,MISSOURI,Female
+SC,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2014,3,27,03/27/2014,Q1,275,2327,SOUTH CAROLINA,Female
+AK,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Chest,2,Youth,2014,3,24,03/24/2014,Q1,57,478,ALASKA,Female
+PA,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiology,1,Adult,2014,3,24,03/24/2014,Q1,198,1218,PENNSYLVANIA,Male
+AL,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,2,Youth,2014,3,23,03/23/2014,Q1,61,519,ALABAMA,Female
+PR,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,1,Adult,2014,3,18,03/18/2014,Q1,198,1147,PUERTO RICO,Male
+WV,30,Cerebral infarction due to embolism of right carotid artery,Division of Chest,2,Youth,2014,3,16,03/16/2014,Q1,43,323,WEST VIRGINIA,Female
+TN,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiology,2,Adult,2014,3,16,03/16/2014,Q1,284,1561,TENNESSEE,Female
+VA,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,2,Adult,2014,3,12,03/12/2014,Q1,359,2273,VIRGINIA,Female
+OH,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Chest,1,Adult,2014,3,11,03/11/2014,Q1,170,948,OHIO,Male
+WA,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiology,2,Youth,2014,3,11,03/11/2014,Q1,84,746,WASHINGTON,Female
+AL,30,Occlusion and stenosis of right middle cerebral artery,Division of Cardiology,2,Youth,2014,3,10,03/10/2014,Q1,116,797,ALABAMA,Female
+WI,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,2,Youth,2014,3,9,03/09/2014,Q1,39,297,WISCONSIN,Female
+AR,30,Occlusion and stenosis of left middle cerebral artery,Division of Cardiology,2,Youth,2014,3,9,03/09/2014,Q1,128,1150,ARKANSAS,Female
+SC,30,Occlusion and stenosis of right middle cerebral artery,Division of Chest,1,Adult,2014,3,1,03/01/2014,Q1,223,1225,SOUTH CAROLINA,Male
+CA,30,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiology,2,Youth,2014,3,1,03/01/2014,Q1,182,1345,CALIFORNIA,Female
+MO,30,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2014,2,25,02/25/2014,Q1,528,4230,MISSOURI,Female
+NM,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,2,6,02/06/2014,Q1,55,679,NEW MEXICO,Male
+NY,30,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2014,2,4,02/04/2014,Q1,69,617,NEW YORK,Male
+IL,30,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,1,Adult,2014,1,27,01/27/2014,Q1,2256,9450,ILLINOIS,Male
+KS,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiology,1,Adult,2014,1,25,01/25/2014,Q1,2422,11189,KANSAS,Male
+CO,30,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,Division of Chest,2,Adult,2014,1,24,01/24/2014,Q1,1698,8835,COLORADO,Female
+GU,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiology,1,Adult,2014,1,24,01/24/2014,Q1,1077,5122,Guam,Male
+ND,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2014,1,21,01/21/2014,Q1,215,1383,NORTH DAKOTA,Female
+NH,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,1,Adult,2014,1,21,01/21/2014,Q1,104,674,NEW HAMPSHIRE,Male
+KS,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,1,Youth,2014,1,20,01/20/2014,Q1,287,2345,KANSAS,Male
+HI,30,Occlusion and stenosis of unspecified carotid artery,Division of Chest,1,Adult,2014,1,18,01/18/2014,Q1,3384,16034,HAWAII,Male
+MS,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiology,2,Youth,2014,1,18,01/18/2014,Q1,154,943,MISSISSIPPI,Female
+DE,30,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Chest,2,Adult,2014,1,16,01/16/2014,Q1,1819,9750,DELAWARE,Female
+IA,30,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,1,Adult,2014,1,16,01/16/2014,Q1,3423,17804,IOWA,Male
+MN,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Hematology & Oncology,2,Youth,2014,1,8,01/08/2014,Q1,513,4057,MINNESOTA,Female
+MI,30,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Hematology & Oncology,1,Youth,2014,1,7,01/07/2014,Q1,391,2732,MICHIGAN,Male
+MD,30,Occlusion and stenosis of right carotid artery,Division of Cardiology,2,Youth,2014,1,6,01/06/2014,Q1,106,759,MARYLAND,Female
+DC,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiology,1,Adult,2014,1,2,01/02/2014,Q1,1029,5316,DISTRICT OF COLUMBIA,Male
+MT,30,"Cerebrovascular disease, unspecified",Division of Cardiology,2,Youth,2014,1,2,01/02/2014,Q1,185,1268,MONTANA,Female
+AS,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiovascular Surgery,2,Youth,2013,12,28,12/28/2013,Q4,31,265,American Samoa,Female
+MT,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Hematology & Oncology,1,Youth,2013,12,27,12/27/2013,Q4,532,2080,MONTANA,Male
+PR,30,Occlusion and stenosis of right carotid artery,Division of Hematology & Oncology,1,Adult,2013,12,26,12/26/2013,Q4,132,831,PUERTO RICO,Male
+KY,30,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,12,26,12/26/2013,Q4,160,749,KENTUCKY,Male
+NV,90,Cerebral infarction due to embolism of basilar artery,Division of Hematology & Oncology,1,Youth,2013,12,25,12/25/2013,Q4,698,2559,NEVADA,Male
+WV,30,Cerebral infarction due to thrombosis of other precerebral artery,Division of Cardiovascular Surgery,2,Adult,2013,12,23,12/23/2013,Q4,251,1749,WEST VIRGINIA,Female
+CO,30,"Cerebrovascular disease, unspecified",Division of Cardiovascular Surgery,2,Youth,2013,12,23,12/23/2013,Q4,41,443,COLORADO,Female
+SC,30,Occlusion and stenosis of bilateral carotid arteries,Division of Cardiovascular Surgery,1,Adult,2013,12,22,12/22/2013,Q4,160,992,SOUTH CAROLINA,Male
+LA,90,Occlusion and stenosis of right posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2013,12,22,12/22/2013,Q4,2961,8916,LOUISIANA,Female
+MA,90,Occlusion and stenosis of left posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2013,12,22,12/22/2013,Q4,3038,9420,MASSACHUSETTS,Female
+GU,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,12,21,12/21/2013,Q4,103,667,Guam,Male
+MD,30,Cerebral infarction due to embolism of left middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,12,21,12/21/2013,Q4,276,1403,MARYLAND,Male
+AZ,90,Other nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,1,Youth,2013,12,21,12/21/2013,Q4,63,279,ARIZONA,Male
+CT,90,Occlusion and stenosis of left carotid artery,Division of Hematology & Oncology,2,Youth,2013,12,19,12/19/2013,Q4,85,276,CONNECTICUT,Female
+MI,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiovascular Surgery,2,Adult,2013,12,17,12/17/2013,Q4,367,1486,MICHIGAN,Female
+TX,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Adult,2013,12,14,12/14/2013,Q4,183,1045,TEXAS,Male
+IL,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Hematology & Oncology,2,Adult,2013,12,14,12/14/2013,Q4,2654,7735,ILLINOIS,Female
+DE,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiovascular Surgery,2,Youth,2013,12,9,12/09/2013,Q4,44,274,DELAWARE,Female
+NH,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,1,Youth,2013,12,8,12/08/2013,Q4,652,2433,NEW HAMPSHIRE,Male
+HI,30,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,Division of Cardiovascular Surgery,1,Adult,2013,12,7,12/07/2013,Q4,107,678,HAWAII,Male
+DC,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,2,Youth,2013,12,7,12/07/2013,Q4,42,410,DISTRICT OF COLUMBIA,Female
+VT,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Adult,2013,12,4,12/04/2013,Q4,226,1556,VERMONT,Male
+WY,30,Cerebral infarction due to embolism of other precerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,12,3,12/03/2013,Q4,22,239,WYOMING,Female
+MO,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Hematology & Oncology,2,Adult,2013,11,28,11/28/2013,Q4,5601,16835,MISSOURI,Female
+AS,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Hematology & Oncology,1,Youth,2013,11,26,11/26/2013,Q4,60,218,American Samoa,Male
+MN,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiovascular Surgery,2,Youth,2013,11,24,11/24/2013,Q4,19,288,MINNESOTA,Female
+PA,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,2,Youth,2013,11,24,11/24/2013,Q4,260,895,PENNSYLVANIA,Female
+ID,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Youth,2013,11,24,11/24/2013,Q4,154,524,IDAHO,Female
+MP,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,11,20,11/20/2013,Q4,32,296,Sankattan Siha Na Islas Mari?nas,Female
+VI,90,Occlusion and stenosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Adult,2013,11,20,11/20/2013,Q4,264,843,VIRGIA ISLAND,Male
+IA,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Youth,2013,11,20,11/20/2013,Q4,151,486,IOWA,Female
+TN,90,Cerebral infarction due to embolism of unspecified carotid artery,Division of Chest,1,Adult,2013,11,18,11/18/2013,Q4,198,591,TENNESSEE,Male
+MS,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,2,Adult,2013,11,17,11/17/2013,Q4,5817,18288,MISSISSIPPI,Female
+PA,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Hematology & Oncology,1,Youth,2013,11,17,11/17/2013,Q4,1196,4262,PENNSYLVANIA,Male
+NE,30,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,Division of Cardiovascular Surgery,2,Youth,2013,11,16,11/16/2013,Q4,41,360,State of Nebraska,Female
+OR,90,Other nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,1,Youth,2013,11,11,11/11/2013,Q4,1172,4230,OREGON,Male
+SD,90,Cerebral infarction due to embolism of left carotid artery,Division of Chest,2,Youth,2013,11,10,11/10/2013,Q4,444,1428,SOUTH DAKOTA,Female
+RI,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,2,Youth,2013,11,8,11/08/2013,Q4,421,1365,RHODE ISLAND,Female
+VT,90,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Hematology & Oncology,1,Adult,2013,11,2,11/02/2013,Q4,295,893,VERMONT,Male
+WY,90,Occlusion and stenosis of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Adult,2013,11,2,11/02/2013,Q4,341,1178,WYOMING,Male
+AR,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,1,Adult,2013,11,2,11/02/2013,Q4,484,1693,ARKANSAS,Male
+MI,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiovascular Surgery,2,Adult,2013,8,26,08/26/2013,Q3,367,1486,MICHIGAN,Female
+WV,30,Cerebral infarction due to thrombosis of other precerebral artery,Division of Cardiovascular Surgery,2,Adult,2013,8,23,08/23/2013,Q3,251,1749,WEST VIRGINIA,Female
+CA,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiovascular Surgery,2,Youth,2013,8,19,08/19/2013,Q3,33,229,CALIFORNIA,Female
+DC,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,2,Youth,2013,8,19,08/19/2013,Q3,42,410,DISTRICT OF COLUMBIA,Female
+UT,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Adult,2013,8,18,08/18/2013,Q3,190,1180,UTAH,Male
+CO,30,"Cerebrovascular disease, unspecified",Division of Cardiovascular Surgery,2,Youth,2013,8,18,08/18/2013,Q3,41,443,COLORADO,Female
+MT,30,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,8,18,08/18/2013,Q3,36,281,MONTANA,Female
+LA,30,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,8,17,08/17/2013,Q3,161,816,LOUISIANA,Male
+AK,30,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Cardiovascular Surgery,2,Youth,2013,8,16,08/16/2013,Q3,25,242,ALASKA,Female
+VT,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Adult,2013,8,14,08/14/2013,Q3,226,1556,VERMONT,Male
+IL,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,8,14,08/14/2013,Q3,138,804,ILLINOIS,Male
+SD,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiovascular Surgery,1,Adult,2013,8,8,08/08/2013,Q3,183,1028,SOUTH DAKOTA,Male
+ND,30,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,Division of Cardiovascular Surgery,2,Youth,2013,8,6,08/06/2013,Q3,38,278,NORTH DAKOTA,Female
+PA,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Hematology & Oncology,1,Youth,2013,8,4,08/04/2013,Q3,1196,4262,PENNSYLVANIA,Male
+MD,30,Cerebral infarction due to embolism of left middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,8,2,08/02/2013,Q3,276,1403,MARYLAND,Male
+MI,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Adult,2013,7,26,07/26/2013,Q3,3304,9923,MICHIGAN,Female
+AR,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,1,Adult,2013,7,25,07/25/2013,Q3,484,1693,ARKANSAS,Male
+KS,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,2,Adult,2013,7,24,07/24/2013,Q3,2745,8259,KANSAS,Female
+MO,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Hematology & Oncology,2,Adult,2013,7,24,07/24/2013,Q3,5601,16835,MISSOURI,Female
+RI,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,2,Youth,2013,7,23,07/23/2013,Q3,421,1365,RHODE ISLAND,Female
+DE,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,2,Youth,2013,7,20,07/20/2013,Q3,87,244,DELAWARE,Female
+CA,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Hematology & Oncology,1,Youth,2013,7,16,07/16/2013,Q3,70,279,CALIFORNIA,Male
+WV,90,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Hematology & Oncology,2,Adult,2013,7,13,07/13/2013,Q3,341,939,WEST VIRGINIA,Female
+IA,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Youth,2013,7,13,07/13/2013,Q3,151,486,IOWA,Female
+WY,90,Occlusion and stenosis of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Adult,2013,7,12,07/12/2013,Q3,341,1178,WYOMING,Male
+ID,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Youth,2013,7,12,07/12/2013,Q3,154,524,IDAHO,Female
+MS,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,2,Adult,2013,7,12,07/12/2013,Q3,5817,18288,MISSISSIPPI,Female
+OR,90,Other nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,1,Youth,2013,7,12,07/12/2013,Q3,1172,4230,OREGON,Male
+ND,90,Cerebral infarction due to embolism of left carotid artery,Division of Hematology & Oncology,1,Youth,2013,7,9,07/09/2013,Q3,627,2275,NORTH DAKOTA,Male
+NC,90,Cerebral infarction due to embolism of right carotid artery,Division of Hematology & Oncology,1,Youth,2013,7,7,07/07/2013,Q3,598,2221,NORTH CAROLINA,Male
+SD,90,Cerebral infarction due to embolism of left carotid artery,Division of Chest,2,Youth,2013,7,5,07/05/2013,Q3,444,1428,SOUTH DAKOTA,Female
+VA,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Chest,1,Adult,2013,7,3,07/03/2013,Q3,223,627,VIRGINIA,Male
+WA,30,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,6,24,06/24/2013,Q2,233,1633,WASHINGTON,Male
+HI,90,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Youth,2013,6,20,06/20/2013,Q2,148,480,HAWAII,Female
+OK,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,1,Youth,2013,6,19,06/19/2013,Q2,257,870,OKLAHOMA,Male
+OH,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Chest,1,Youth,2013,6,18,06/18/2013,Q2,254,901,OHIO,Male
+AL,90,Occlusion and stenosis of left anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2013,6,14,06/14/2013,Q2,394,1274,ALABAMA,Male
+MP,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,2,Adult,2013,6,14,06/14/2013,Q2,5783,18093,Sankattan Siha Na Islas Mari?nas,Female
+MN,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Adult,2013,6,12,06/12/2013,Q2,5524,16196,MINNESOTA,Female
+OK,90,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,Division of Hematology & Oncology,1,Youth,2013,6,12,06/12/2013,Q2,1136,4280,OKLAHOMA,Male
+GU,90,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2013,6,1,06/01/2013,Q2,146,525,Guam,Female
+OH,90,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,Division of Hematology & Oncology,1,Youth,2013,6,1,06/01/2013,Q2,1110,4097,OHIO,Male
+GA,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Youth,2013,5,22,05/22/2013,Q2,45,419,GEORGIA,Male
+NC,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,5,20,05/20/2013,Q2,36,341,NORTH CAROLINA,Female
+WI,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Adult,2013,5,11,05/11/2013,Q2,243,1713,WISCONSIN,Male
+FL,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Youth,2013,5,11,05/11/2013,Q2,44,429,FLORIDA,Male
+MS,30,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,5,8,05/08/2013,Q2,32,324,MISSISSIPPI,Female
+MA,30,Cerebral infarction due to embolism of right middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,5,5,05/05/2013,Q2,270,1430,MASSACHUSETTS,Male
+IN,30,Other cerebral infarction,Division of Cardiovascular Surgery,1,Adult,2013,5,4,05/04/2013,Q2,148,768,INDIANA,Male
+KS,30,"Cerebral infarction, unspecified",Division of Cardiovascular Surgery,1,Adult,2013,5,1,05/01/2013,Q2,152,858,KANSAS,Male
+CO,90,Occlusion and stenosis of right carotid artery,Division of Hematology & Oncology,2,Youth,2013,4,28,04/28/2013,Q2,83,285,COLORADO,Female
+ME,90,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Adult,2013,4,22,04/22/2013,Q2,3291,10045,MAINE,Female
+FL,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2013,4,19,04/19/2013,Q2,94,318,FLORIDA,Female
+PR,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,2,Youth,2013,4,18,04/18/2013,Q2,374,1280,PUERTO RICO,Female
+WI,90,Occlusion and stenosis of left middle cerebral artery,Division of Hematology & Oncology,2,Adult,2013,4,18,04/18/2013,Q2,340,988,WISCONSIN,Female
+NM,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Hematology & Oncology,1,Youth,2013,4,18,04/18/2013,Q2,680,2582,NEW MEXICO,Male
+UT,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Chest,1,Adult,2013,4,16,04/16/2013,Q2,221,651,UTAH,Male
+RI,30,Occlusion and stenosis of left carotid artery,Division of Hematology & Oncology,1,Adult,2013,4,14,04/14/2013,Q2,144,974,RHODE ISLAND,Male
+ME,30,Cerebral infarction due to embolism of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2013,4,12,04/12/2013,Q2,328,1451,MAINE,Female
+AK,90,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2013,4,11,04/11/2013,Q2,367,1163,ALASKA,Male
+AZ,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiovascular Surgery,2,Youth,2013,4,10,04/10/2013,Q2,32,315,ARIZONA,Female
+NJ,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Hematology & Oncology,1,Youth,2013,4,10,04/10/2013,Q2,660,2500,NEW JERSEY,Male
+CT,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,2,Youth,2013,4,9,04/09/2013,Q2,42,261,CONNECTICUT,Female
+SC,90,Cerebral infarction due to embolism of right carotid artery,Division of Chest,2,Youth,2013,4,8,04/08/2013,Q2,436,1400,SOUTH CAROLINA,Female
+VA,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiovascular Surgery,1,Adult,2013,4,6,04/06/2013,Q2,199,1156,VIRGINIA,Male
+IN,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,2,Adult,2013,4,2,04/02/2013,Q2,2742,8210,INDIANA,Female
+WA,30,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,3,26,03/26/2013,Q1,233,1633,WASHINGTON,Male
+TX,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,1,Adult,2013,3,26,03/26/2013,Q1,206,697,TEXAS,Male
+AK,90,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2013,3,26,03/26/2013,Q1,367,1163,ALASKA,Male
+AL,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,3,23,03/23/2013,Q1,28,253,ALABAMA,Female
+WA,90,Occlusion and stenosis of right middle cerebral artery,Division of Hematology & Oncology,2,Adult,2013,3,21,03/21/2013,Q1,309,948,WASHINGTON,Female
+DC,90,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Hematology & Oncology,2,Youth,2013,3,18,03/18/2013,Q1,85,297,DISTRICT OF COLUMBIA,Female
+SC,90,Cerebral infarction due to embolism of right carotid artery,Division of Chest,2,Youth,2013,3,16,03/16/2013,Q1,436,1400,SOUTH CAROLINA,Female
+FL,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Youth,2013,3,15,03/15/2013,Q1,44,429,FLORIDA,Male
+GA,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Youth,2013,3,15,03/15/2013,Q1,45,419,GEORGIA,Male
+GA,90,Cerebral infarction due to embolism of right carotid artery,Division of Hematology & Oncology,2,Youth,2013,3,15,03/15/2013,Q1,100,318,GEORGIA,Female
+AL,90,Occlusion and stenosis of left anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2013,3,13,03/13/2013,Q1,394,1274,ALABAMA,Male
+OR,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,1,Youth,2013,3,12,03/12/2013,Q1,258,838,OREGON,Male
+AR,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,2,Youth,2013,3,10,03/10/2013,Q1,30,276,ARKANSAS,Female
+TN,30,"Cerebrovascular disease, unspecified",Division of Cardiovascular Surgery,1,Adult,2013,3,9,03/09/2013,Q1,183,1037,TENNESSEE,Male
+WI,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Adult,2013,3,8,03/08/2013,Q1,243,1713,WISCONSIN,Male
+GU,90,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2013,3,7,03/07/2013,Q1,146,525,Guam,Female
+VI,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Adult,2013,3,4,03/04/2013,Q1,205,1169,VIRGIA ISLAND,Male
+PR,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,2,Youth,2013,3,2,03/02/2013,Q1,374,1280,PUERTO RICO,Female
+ME,30,Cerebral infarction due to embolism of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2013,2,24,02/24/2013,Q1,328,1451,MAINE,Female
+ID,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,Division of Cardiovascular Surgery,1,Adult,2013,2,14,02/14/2013,Q1,136,784,IDAHO,Male
+MO,30,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiovascular Surgery,2,Youth,2013,2,13,02/13/2013,Q1,30,290,MISSOURI,Female
+NH,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,Division of Cardiovascular Surgery,1,Youth,2013,2,10,02/10/2013,Q1,48,393,NEW HAMPSHIRE,Male
+MA,30,Cerebral infarction due to embolism of right middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2013,2,8,02/08/2013,Q1,270,1430,MASSACHUSETTS,Male
+IA,30,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,Division of Cardiovascular Surgery,1,Adult,2013,2,5,02/05/2013,Q1,131,756,IOWA,Male
+NY,90,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Hematology & Oncology,1,Youth,2013,1,20,01/20/2013,Q1,719,2535,NEW YORK,Male
+OH,90,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,Division of Hematology & Oncology,1,Youth,2013,1,20,01/20/2013,Q1,1110,4097,OHIO,Male
+KY,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Hematology & Oncology,2,Adult,2013,1,17,01/17/2013,Q1,2920,9187,KENTUCKY,Female
+MN,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Adult,2013,1,17,01/17/2013,Q1,5524,16196,MINNESOTA,Female
+NE,90,Cerebral infarction due to embolism of unspecified carotid artery,Division of Hematology & Oncology,1,Youth,2013,1,10,01/10/2013,Q1,634,2345,State of Nebraska,Male
+MP,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,2,Adult,2013,1,9,01/09/2013,Q1,5783,18093,Sankattan Siha Na Islas Mari?nas,Female
+OK,90,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,Division of Hematology & Oncology,1,Youth,2013,1,7,01/07/2013,Q1,1136,4280,OKLAHOMA,Male
+MD,90,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Adult,2013,1,6,01/06/2013,Q1,3097,9750,MARYLAND,Female
+HI,90,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Youth,2013,1,3,01/03/2013,Q1,148,480,HAWAII,Female
+WY,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Chest,2,Youth,2012,12,28,12/28/2012,Q4,44,360,WYOMING,Female
+DE,30,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Hematology & Oncology,1,Adult,2012,12,27,12/27/2012,Q4,210,893,DELAWARE,Male
+VA,30,Occlusion and stenosis of cerebellar arteries,Division of Chest,2,Youth,2012,12,26,12/26/2012,Q4,25,288,VIRGINIA,Female
+NC,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiovascular Surgery,2,Adult,2012,12,26,12/26/2012,Q4,1813,8677,NORTH CAROLINA,Female
+MN,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiovascular Surgery,2,Youth,2012,12,26,12/26/2012,Q4,75,483,MINNESOTA,Female
+CO,30,Occlusion and stenosis of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Adult,2012,12,24,12/24/2012,Q4,171,782,COLORADO,Male
+NH,30,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Cardiovascular Surgery,2,Adult,2012,12,22,12/22/2012,Q4,1997,8916,NEW HAMPSHIRE,Female
+PA,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,12,21,12/21/2012,Q4,319,2322,PENNSYLVANIA,Male
+NY,30,Cerebral infarction due to embolism of other precerebral artery,Division of Hematology & Oncology,2,Adult,2012,12,19,12/19/2012,Q4,1142,5105,NEW YORK,Female
+VA,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,2,Youth,2012,12,18,12/18/2012,Q4,139,829,VIRGINIA,Female
+WA,30,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Cardiovascular Surgery,1,Youth,2012,12,18,12/18/2012,Q4,636,4189,WASHINGTON,Male
+LA,90,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,Division of Cardiology,2,Youth,2012,12,17,12/17/2012,Q4,75,417,LOUISIANA,Female
+KS,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,12,14,12/14/2012,Q4,33,259,KANSAS,Male
+NV,30,Cerebral infarction due to thrombosis of other precerebral artery,Division of Hematology & Oncology,2,Adult,2012,12,12,12/12/2012,Q4,1140,4830,NEVADA,Female
+IL,30,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,12,12,12/12/2012,Q4,30,218,ILLINOIS,Male
+PR,30,"Cerebrovascular disease, unspecified",Division of Cardiovascular Surgery,1,Youth,2012,12,12,12/12/2012,Q4,334,2234,PUERTO RICO,Male
+ID,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,12,11,12/11/2012,Q4,29,279,IDAHO,Male
+DC,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,2,Adult,2012,12,11,12/11/2012,Q4,383,1572,DISTRICT OF COLUMBIA,Female
+MD,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,Division of Cardiology,2,Youth,2012,12,11,12/11/2012,Q4,83,431,MARYLAND,Female
+NJ,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Cardiology,2,Adult,2012,12,11,12/11/2012,Q4,432,1381,NEW JERSEY,Female
+CO,30,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Chest,2,Adult,2012,12,10,12/10/2012,Q4,189,1035,COLORADO,Female
+FL,90,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,2,Adult,2012,12,10,12/10/2012,Q4,428,1733,FLORIDA,Female
+NY,30,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Cardiovascular Surgery,2,Adult,2012,12,8,12/08/2012,Q4,3626,16569,NEW YORK,Female
+WI,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,12,7,12/07/2012,Q4,693,4309,WISCONSIN,Male
+IA,30,"Thoracic aortic aneurysm, ruptured",Division of Cardiovascular Surgery,1,Adult,2012,12,6,12/06/2012,Q4,344,1706,IOWA,Male
+TN,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Youth,2012,12,5,12/05/2012,Q4,121,738,TENNESSEE,Female
+AS,30,Occlusion and stenosis of right middle cerebral artery,Division of Hematology & Oncology,1,Adult,2012,12,5,12/05/2012,Q4,136,571,American Samoa,Male
+OR,30,Occlusion and stenosis of bilateral carotid arteries,Division of Cardiovascular Surgery,1,Adult,2012,12,4,12/04/2012,Q4,3914,18542,OREGON,Male
+VI,30,Occlusion and stenosis of other cerebral arteries,Division of Chest,2,Youth,2012,12,3,12/03/2012,Q4,36,296,VIRGIA ISLAND,Female
+MP,30,Cerebral infarction due to embolism of left carotid artery,Division of Cardiovascular Surgery,2,Youth,2012,12,3,12/03/2012,Q4,97,530,Sankattan Siha Na Islas Mari?nas,Female
+MS,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiovascular Surgery,2,Adult,2012,12,2,12/02/2012,Q4,1731,7436,MISSISSIPPI,Female
+SD,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Hematology & Oncology,2,Youth,2012,12,1,12/01/2012,Q4,116,783,SOUTH DAKOTA,Female
+DC,30,Occlusion and stenosis of left anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2012,11,27,11/27/2012,Q4,205,1171,DISTRICT OF COLUMBIA,Male
+NJ,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,2,Youth,2012,11,25,11/25/2012,Q4,197,783,NEW JERSEY,Female
+MA,30,Cerebral infarction due to embolism of left anterior cerebral artery,Division of Hematology & Oncology,1,Youth,2012,11,23,11/23/2012,Q4,100,707,MASSACHUSETTS,Male
+NC,30,Occlusion and stenosis of right middle cerebral artery,Division of Hematology & Oncology,1,Youth,2012,11,23,11/23/2012,Q4,209,1331,NORTH CAROLINA,Male
+HI,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Youth,2012,11,23,11/23/2012,Q4,49,262,HAWAII,Female
+LA,30,Cerebral infarction due to embolism of right anterior cerebral artery,Division of Hematology & Oncology,1,Youth,2012,11,21,11/21/2012,Q4,95,644,LOUISIANA,Male
+KY,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Cardiology,2,Youth,2012,11,21,11/21/2012,Q4,62,265,KENTUCKY,Female
+NH,30,Occlusion and stenosis of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Adult,2012,11,20,11/20/2012,Q4,1099,4250,NEW HAMPSHIRE,Male
+AR,90,"Cerebrovascular disease, unspecified",Division of Cardiovascular Surgery,1,Adult,2012,11,20,11/20/2012,Q4,296,1045,ARKANSAS,Male
+ND,30,Occlusion and stenosis of left middle cerebral artery,Division of Hematology & Oncology,1,Youth,2012,11,19,11/19/2012,Q4,229,1337,NORTH DAKOTA,Male
+PR,30,Cerebral infarction due to embolism of right carotid artery,Division of Hematology & Oncology,2,Adult,2012,11,19,11/19/2012,Q4,2402,10093,PUERTO RICO,Female
+MI,90,Other cerebral infarction,Division of Cardiology,2,Adult,2012,11,19,11/19/2012,Q4,194,667,MICHIGAN,Female
+IN,30,Cerebral infarction due to embolism of right middle cerebral artery,Division of Chest,1,Adult,2012,11,17,11/17/2012,Q4,412,2383,INDIANA,Male
+MO,90,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2012,11,17,11/17/2012,Q4,229,792,MISSOURI,Female
+AL,30,Occlusion and stenosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Youth,2012,11,13,11/13/2012,Q4,263,1421,ALABAMA,Male
+DC,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Chest,2,Adult,2012,11,13,11/13/2012,Q4,222,1120,DISTRICT OF COLUMBIA,Female
+SC,30,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Adult,2012,11,12,11/12/2012,Q4,2611,11301,SOUTH CAROLINA,Female
+TN,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,11,12,11/12/2012,Q4,366,2433,TENNESSEE,Male
+MT,90,Cerebral infarction due to embolism of left middle cerebral artery,Division of Cardiology,2,Adult,2012,11,9,11/09/2012,Q4,237,786,MONTANA,Female
+WY,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Hematology & Oncology,2,Youth,2012,11,8,11/08/2012,Q4,247,1401,WYOMING,Female
+IL,30,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Chest,1,Adult,2012,11,5,11/05/2012,Q4,411,2263,ILLINOIS,Male
+WV,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,11,5,11/05/2012,Q4,237,860,WEST VIRGINIA,Male
+KS,90,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Cardiology,2,Youth,2012,11,5,11/05/2012,Q4,61,256,KANSAS,Female
+GU,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Chest,2,Adult,2012,11,4,11/04/2012,Q4,338,1481,Guam,Female
+AS,30,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery,Division of Chest,2,Youth,2012,11,3,11/03/2012,Q4,63,564,American Samoa,Female
+AL,90,Occlusion and stenosis of unspecified carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,11,2,11/02/2012,Q4,288,1047,ALABAMA,Male
+MP,30,Cerebral infarction due to embolism of left cerebellar artery,Division of Hematology & Oncology,1,Youth,2012,11,1,11/01/2012,Q4,153,810,Sankattan Siha Na Islas Mari?nas,Male
+AR,90,Other nontraumatic subarachnoid hemorrhage,Division of Chest,2,Adult,2012,10,28,10/28/2012,Q4,504,1481,ARKANSAS,Female
+MP,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Chest,1,Adult,2012,10,27,10/27/2012,Q4,1868,5482,Sankattan Siha Na Islas Mari?nas,Male
+NV,90,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Cardiology,2,Adult,2012,10,27,10/27/2012,Q4,548,1497,NEVADA,Female
+MD,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,1,Adult,2012,10,24,10/24/2012,Q4,1672,4830,MARYLAND,Male
+NH,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,2,Youth,2012,10,24,10/24/2012,Q4,169,652,NEW HAMPSHIRE,Female
+KS,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2012,10,24,10/24/2012,Q4,402,1321,KANSAS,Female
+TX,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,1,Youth,2012,10,24,10/24/2012,Q4,117,593,TEXAS,Male
+TN,30,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Chest,1,Adult,2012,10,23,10/23/2012,Q4,291,1403,TENNESSEE,Male
+TN,90,"Cerebrovascular disease, unspecified",Division of Cardiology,1,Youth,2012,10,22,10/22/2012,Q4,112,589,TENNESSEE,Male
+CA,90,Occlusion and stenosis of left carotid artery,Division of Chest,1,Adult,2012,10,18,10/18/2012,Q4,670,2290,CALIFORNIA,Male
+KY,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,1,Youth,2012,10,18,10/18/2012,Q4,409,1338,KENTUCKY,Male
+ID,90,Occlusion and stenosis of unspecified carotid artery,Division of Chest,2,Youth,2012,10,17,10/17/2012,Q4,269,810,IDAHO,Female
+RI,90,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiology,1,Youth,2012,10,17,10/17/2012,Q4,76,345,RHODE ISLAND,Male
+ME,90,Cerebral infarction due to embolism of right carotid artery,Division of Chest,1,Adult,2012,10,12,10/12/2012,Q4,1676,4405,MAINE,Male
+VI,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiology,1,Adult,2012,10,12,10/12/2012,Q4,306,1093,VIRGIA ISLAND,Male
+UT,30,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Chest,2,Adult,2012,10,9,10/09/2012,Q4,378,1486,UTAH,Female
+ND,90,Occlusion and stenosis of left carotid artery,Division of Chest,2,Adult,2012,10,7,10/07/2012,Q4,3822,11118,NORTH DAKOTA,Female
+AR,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Chest,2,Youth,2012,10,6,10/06/2012,Q4,61,578,ARKANSAS,Female
+DC,90,"Cerebrovascular disease, unspecified",Division of Chest,1,Youth,2012,10,5,10/05/2012,Q4,166,609,DISTRICT OF COLUMBIA,Male
+HI,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,2,Youth,2012,10,5,10/05/2012,Q4,221,730,HAWAII,Female
+NY,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Cardiology,2,Youth,2012,10,4,10/04/2012,Q4,61,296,NEW YORK,Female
+SD,90,Occlusion and stenosis of unspecified carotid artery,Division of Cardiology,1,Youth,2012,10,3,10/03/2012,Q4,83,396,SOUTH DAKOTA,Male
+AZ,90,Occlusion and stenosis of right carotid artery,Division of Chest,1,Adult,2012,10,2,10/02/2012,Q4,651,2363,ARIZONA,Male
+NC,90,Occlusion and stenosis of right carotid artery,Division of Chest,2,Adult,2012,10,2,10/02/2012,Q4,3659,10298,NORTH CAROLINA,Female
+WI,90,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,2,Adult,2012,10,1,10/01/2012,Q4,389,1256,WISCONSIN,Female
+VI,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2012,9,27,09/27/2012,Q3,144,801,VIRGIA ISLAND,Female
+AL,30,Occlusion and stenosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Youth,2012,9,26,09/26/2012,Q3,263,1421,ALABAMA,Male
+MA,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Youth,2012,9,26,09/26/2012,Q3,43,244,MASSACHUSETTS,Male
+MN,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiovascular Surgery,2,Youth,2012,9,23,09/23/2012,Q3,75,483,MINNESOTA,Female
+OR,30,Occlusion and stenosis of bilateral carotid arteries,Division of Cardiovascular Surgery,1,Adult,2012,9,21,09/21/2012,Q3,3914,18542,OREGON,Male
+ND,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiovascular Surgery,2,Adult,2012,9,20,09/20/2012,Q3,1849,8259,NORTH DAKOTA,Female
+WY,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Hematology & Oncology,2,Youth,2012,9,16,09/16/2012,Q3,247,1401,WYOMING,Female
+NV,30,Other nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,2,Adult,2012,9,15,09/15/2012,Q3,2259,9923,NEVADA,Female
+SC,30,"Cerebrovascular disease, unspecified",Division of Hematology & Oncology,2,Adult,2012,9,14,09/14/2012,Q3,2611,11301,SOUTH CAROLINA,Female
+DC,30,Occlusion and stenosis of left anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2012,9,14,09/14/2012,Q3,205,1171,DISTRICT OF COLUMBIA,Male
+OR,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Hematology & Oncology,2,Adult,2012,9,12,09/12/2012,Q3,1370,5590,OREGON,Female
+GU,30,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2012,9,10,09/10/2012,Q3,240,939,Guam,Male
+IN,30,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,9,10,09/10/2012,Q3,31,279,INDIANA,Male
+PR,30,Cerebral infarction due to embolism of right carotid artery,Division of Hematology & Oncology,2,Adult,2012,9,9,09/09/2012,Q3,2402,10093,PUERTO RICO,Female
+UT,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,2,Youth,2012,9,8,09/08/2012,Q3,138,820,UTAH,Female
+AZ,30,Occlusion and stenosis of left middle cerebral artery,Division of Hematology & Oncology,1,Adult,2012,9,7,09/07/2012,Q3,146,627,ARIZONA,Male
+NM,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Hematology & Oncology,2,Adult,2012,9,6,09/06/2012,Q3,1136,4683,NEW MEXICO,Female
+IA,30,"Thoracic aortic aneurysm, ruptured",Division of Cardiovascular Surgery,1,Adult,2012,9,3,09/03/2012,Q3,344,1706,IOWA,Male
+MP,30,Cerebral infarction due to embolism of left carotid artery,Division of Cardiovascular Surgery,2,Youth,2012,8,27,08/27/2012,Q3,97,530,Sankattan Siha Na Islas Mari?nas,Female
+KS,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2012,8,27,08/27/2012,Q3,402,1321,KANSAS,Female
+VT,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,2,Adult,2012,8,25,08/25/2012,Q3,324,1105,VERMONT,Female
+TX,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,1,Youth,2012,8,24,08/24/2012,Q3,117,593,TEXAS,Male
+WV,30,Cerebral infarction due to embolism of other cerebral artery,Division of Chest,2,Youth,2012,8,23,08/23/2012,Q3,43,278,WEST VIRGINIA,Female
+ID,90,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Youth,2012,8,23,08/23/2012,Q3,54,229,IDAHO,Female
+NY,30,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Cardiovascular Surgery,2,Adult,2012,8,22,08/22/2012,Q3,3626,16569,NEW YORK,Female
+AR,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Chest,2,Youth,2012,8,21,08/21/2012,Q3,61,578,ARKANSAS,Female
+NC,90,Occlusion and stenosis of right carotid artery,Division of Chest,2,Adult,2012,8,21,08/21/2012,Q3,3659,10298,NORTH CAROLINA,Female
+IL,30,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Chest,1,Adult,2012,8,20,08/20/2012,Q3,411,2263,ILLINOIS,Male
+OR,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,Division of Cardiology,1,Youth,2012,8,19,08/19/2012,Q3,69,281,OREGON,Male
+CA,90,Occlusion and stenosis of left carotid artery,Division of Chest,1,Adult,2012,8,18,08/18/2012,Q3,670,2290,CALIFORNIA,Male
+CT,90,Occlusion and stenosis of unspecified carotid artery,Division of Chest,1,Youth,2012,8,18,08/18/2012,Q3,164,647,CONNECTICUT,Male
+WI,30,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Chest,2,Youth,2012,8,17,08/17/2012,Q3,39,281,WISCONSIN,Female
+DE,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Chest,1,Youth,2012,8,16,08/16/2012,Q3,194,675,DELAWARE,Male
+MA,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,1,Adult,2012,8,16,08/16/2012,Q3,1671,4683,MASSACHUSETTS,Male
+MS,90,Other nontraumatic subarachnoid hemorrhage,Division of Chest,1,Adult,2012,8,15,08/15/2012,Q3,1980,5590,MISSISSIPPI,Male
+MN,90,"Cerebral infarction, unspecified",Division of Cardiology,2,Adult,2012,8,15,08/15/2012,Q3,216,804,MINNESOTA,Female
+LA,90,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,Division of Cardiology,2,Youth,2012,8,14,08/14/2012,Q3,75,417,LOUISIANA,Female
+ND,30,Occlusion and stenosis of left middle cerebral artery,Division of Hematology & Oncology,1,Youth,2012,8,13,08/13/2012,Q3,229,1337,NORTH DAKOTA,Male
+ME,30,Cerebral infarction due to embolism of right posterior cerebral artery,Division of Hematology & Oncology,1,Youth,2012,8,10,08/10/2012,Q3,108,675,MAINE,Male
+GA,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,Division of Chest,2,Adult,2012,8,10,08/10/2012,Q3,306,1410,GEORGIA,Female
+IN,30,Cerebral infarction due to embolism of right middle cerebral artery,Division of Chest,1,Adult,2012,8,10,08/10/2012,Q3,412,2383,INDIANA,Male
+KY,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,1,Youth,2012,8,9,08/09/2012,Q3,409,1338,KENTUCKY,Male
+PA,90,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiology,1,Youth,2012,8,9,08/09/2012,Q3,72,278,PENNSYLVANIA,Male
+TN,90,"Cerebrovascular disease, unspecified",Division of Cardiology,1,Youth,2012,8,9,08/09/2012,Q3,112,589,TENNESSEE,Male
+WY,90,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,2,Adult,2012,8,9,08/09/2012,Q3,455,1410,WYOMING,Female
+AZ,90,Occlusion and stenosis of right carotid artery,Division of Chest,1,Adult,2012,8,8,08/08/2012,Q3,651,2363,ARIZONA,Male
+NJ,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Cardiology,2,Adult,2012,8,8,08/08/2012,Q3,432,1381,NEW JERSEY,Female
+KY,30,Cerebral infarction due to embolism of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Youth,2012,8,7,08/07/2012,Q3,93,647,KENTUCKY,Male
+CT,30,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Chest,2,Adult,2012,8,7,08/07/2012,Q3,215,1105,CONNECTICUT,Female
+TN,30,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Chest,1,Adult,2012,8,6,08/06/2012,Q3,291,1403,TENNESSEE,Male
+AS,30,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery,Division of Chest,2,Youth,2012,8,6,08/06/2012,Q3,63,564,American Samoa,Female
+UT,30,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Chest,2,Adult,2012,8,5,08/05/2012,Q3,378,1486,UTAH,Female
+NC,90,Cerebral infarction due to embolism of unspecified middle cerebral artery,Division of Cardiology,2,Adult,2012,8,5,08/05/2012,Q3,240,816,NORTH CAROLINA,Female
+ND,90,Occlusion and stenosis of left carotid artery,Division of Chest,2,Adult,2012,8,3,08/03/2012,Q3,3822,11118,NORTH DAKOTA,Female
+NV,90,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Cardiology,2,Adult,2012,8,3,08/03/2012,Q3,548,1497,NEVADA,Female
+NC,30,Occlusion and stenosis of right middle cerebral artery,Division of Hematology & Oncology,1,Youth,2012,8,1,08/01/2012,Q3,209,1331,NORTH CAROLINA,Male
+MD,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,Division of Cardiology,2,Youth,2012,8,1,08/01/2012,Q3,83,431,MARYLAND,Female
+WA,30,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Cardiovascular Surgery,1,Youth,2012,7,26,07/26/2012,Q3,636,4189,WASHINGTON,Male
+IA,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiology,2,Youth,2012,7,25,07/25/2012,Q3,50,242,IOWA,Female
+WI,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,7,23,07/23/2012,Q3,693,4309,WISCONSIN,Male
+AK,90,Cerebral infarction due to embolism of right carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,7,20,07/20/2012,Q3,287,1028,ALASKA,Male
+RI,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Youth,2012,7,17,07/17/2012,Q3,346,2221,RHODE ISLAND,Male
+CA,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiovascular Surgery,1,Adult,2012,7,8,07/08/2012,Q3,312,1180,CALIFORNIA,Male
+FL,90,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,2,Adult,2012,7,8,07/08/2012,Q3,428,1733,FLORIDA,Female
+NM,90,Cerebral infarction due to embolism of right carotid artery,Division of Chest,2,Youth,2012,7,7,07/07/2012,Q3,224,820,NEW MEXICO,Female
+NY,90,"Cerebrovascular disease, unspecified",Division of Chest,1,Youth,2012,7,6,07/06/2012,Q3,241,801,NEW YORK,Male
+DC,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,2,Adult,2012,7,5,07/05/2012,Q3,383,1572,DISTRICT OF COLUMBIA,Female
+SC,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Youth,2012,7,1,07/01/2012,Q3,352,2275,SOUTH CAROLINA,Male
+AK,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,2,Adult,2012,6,26,06/26/2012,Q2,491,1541,ALASKA,Female
+NM,90,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Cardiology,2,Adult,2012,6,25,06/25/2012,Q2,499,1455,NEW MEXICO,Female
+ND,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Adult,2012,6,23,06/23/2012,Q2,246,768,NORTH DAKOTA,Female
+VT,30,Cerebral infarction due to thrombosis of unspecified cerebral artery,Division of Chest,2,Youth,2012,6,22,06/22/2012,Q2,36,324,VERMONT,Female
+GA,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Chest,2,Youth,2012,6,17,06/17/2012,Q2,201,729,GEORGIA,Female
+MO,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Chest,1,Adult,2012,6,17,06/17/2012,Q2,1866,5502,MISSOURI,Male
+WA,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,2,Adult,2012,6,15,06/15/2012,Q2,355,1146,WASHINGTON,Female
+MA,90,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,Division of Cardiology,2,Youth,2012,6,15,06/15/2012,Q2,83,426,MASSACHUSETTS,Female
+CO,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiology,1,Adult,2012,6,14,06/14/2012,Q2,333,1156,COLORADO,Male
+IL,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Cardiology,2,Youth,2012,6,13,06/13/2012,Q2,55,261,ILLINOIS,Female
+NH,90,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2012,6,13,06/13/2012,Q2,417,1440,NEW HAMPSHIRE,Female
+IN,90,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Cardiology,2,Youth,2012,6,12,06/12/2012,Q2,56,315,INDIANA,Female
+OK,90,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,Division of Cardiology,2,Youth,2012,6,10,06/10/2012,Q2,67,324,OKLAHOMA,Female
+FL,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Chest,1,Youth,2012,6,9,06/09/2012,Q2,199,738,FLORIDA,Male
+NE,90,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiology,2,Adult,2012,6,8,06/08/2012,Q2,261,858,State of Nebraska,Female
+UT,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiology,1,Youth,2012,6,6,06/06/2012,Q2,126,627,UTAH,Male
+DE,90,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,2,Adult,2012,6,5,06/05/2012,Q2,426,1725,DELAWARE,Female
+ME,90,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiology,2,Youth,2012,6,5,06/05/2012,Q2,85,437,MAINE,Female
+AK,30,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery,Division of Chest,2,Youth,2012,6,3,06/03/2012,Q2,46,341,ALASKA,Female
+CT,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,2,Adult,2012,6,3,06/03/2012,Q2,381,1651,CONNECTICUT,Female
+LA,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,1,Adult,2012,6,2,06/02/2012,Q2,1648,4671,LOUISIANA,Male
+PR,90,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiology,1,Youth,2012,6,1,06/01/2012,Q2,74,341,PUERTO RICO,Male
+GA,30,Occlusion and stenosis of right posterior cerebral artery,Division of Hematology & Oncology,1,Adult,2012,5,20,05/20/2012,Q2,234,1147,GEORGIA,Male
+HI,30,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Cardiovascular Surgery,1,Adult,2012,5,19,05/19/2012,Q2,262,1225,HAWAII,Male
+MI,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,5,16,05/16/2012,Q2,74,519,MICHIGAN,Male
+OK,30,Occlusion and stenosis of left carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,5,16,05/16/2012,Q2,3684,17804,OKLAHOMA,Male
+VI,30,Cerebral infarction due to thrombosis of other precerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,5,11,05/11/2012,Q2,621,4230,VIRGIA ISLAND,Male
+AK,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Hematology & Oncology,1,Youth,2012,5,10,05/10/2012,Q2,258,1383,ALASKA,Male
+OH,30,Occlusion and stenosis of right carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,5,10,05/10/2012,Q2,3643,16034,OHIO,Male
+VT,30,Cerebral infarction due to embolism of other precerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,5,10,05/10/2012,Q2,624,4057,VERMONT,Male
+MO,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiovascular Surgery,2,Youth,2012,5,1,05/01/2012,Q2,81,478,MISSOURI,Female
+MT,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiovascular Surgery,2,Adult,2012,4,28,04/28/2012,Q2,1774,8210,MONTANA,Female
+OK,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Hematology & Oncology,2,Adult,2012,4,27,04/27/2012,Q2,1266,5502,OKLAHOMA,Female
+DE,30,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,Division of Chest,2,Adult,2012,4,25,04/25/2012,Q2,232,1146,DELAWARE,Female
+CA,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Chest,2,Youth,2012,4,25,04/25/2012,Q2,78,617,CALIFORNIA,Female
+AS,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Chest,1,Adult,2012,4,25,04/25/2012,Q2,639,2389,American Samoa,Male
+CA,30,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Hematology & Oncology,1,Adult,2012,4,24,04/24/2012,Q2,151,651,CALIFORNIA,Male
+KS,30,Cerebral infarction due to embolism of left middle cerebral artery,Division of Hematology & Oncology,1,Adult,2012,4,24,04/24/2012,Q2,448,2273,KANSAS,Male
+RI,30,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Adult,2012,4,22,04/22/2012,Q2,2551,11189,RHODE ISLAND,Female
+NE,30,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Hematology & Oncology,1,Adult,2012,4,21,04/21/2012,Q2,1090,4671,State of Nebraska,Male
+WA,30,Cerebral infarction due to embolism of left carotid artery,Division of Hematology & Oncology,2,Youth,2012,4,19,04/19/2012,Q2,162,901,WASHINGTON,Female
+FL,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2012,4,19,04/19/2012,Q2,234,988,FLORIDA,Male
+KY,30,"Cerebrovascular disease, unspecified",Division of Cardiovascular Surgery,1,Youth,2012,4,17,04/17/2012,Q2,41,285,KENTUCKY,Male
+AZ,30,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery,Division of Chest,2,Youth,2012,4,16,04/16/2012,Q2,65,679,ARIZONA,Female
+TX,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,4,13,04/13/2012,Q2,397,2500,TEXAS,Male
+VA,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiology,1,Youth,2012,4,12,04/12/2012,Q2,138,696,VIRGINIA,Male
+WY,90,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,4,10,04/10/2012,Q2,272,974,WYOMING,Male
+MT,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Chest,1,Adult,2012,4,10,04/10/2012,Q2,3515,9562,MONTANA,Male
+IN,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2012,4,8,04/08/2012,Q2,395,1353,INDIANA,Female
+MI,30,Cerebral infarction due to embolism of left posterior cerebral artery,Division of Hematology & Oncology,1,Youth,2012,4,7,04/07/2012,Q2,114,738,MICHIGAN,Male
+MT,30,Cerebral infarction due to embolism of other cerebral artery,Division of Hematology & Oncology,1,Youth,2012,4,7,04/07/2012,Q2,206,1345,MONTANA,Male
+HI,30,Other cerebral infarction,Division of Chest,2,Adult,2012,4,7,04/07/2012,Q2,345,1541,HAWAII,Female
+TX,30,"Thoracic aortic aneurysm, ruptured",Division of Chest,1,Adult,2012,4,7,04/07/2012,Q2,336,1451,TEXAS,Male
+VT,30,Cerebral infarction due to embolism of right carotid artery,Division of Hematology & Oncology,2,Youth,2012,4,6,04/06/2012,Q2,159,870,VERMONT,Female
+MS,30,Cerebral infarction due to embolism of unspecified cerebellar artery,Division of Hematology & Oncology,1,Youth,2012,4,6,04/06/2012,Q2,161,1150,MISSISSIPPI,Male
+CO,90,Occlusion and stenosis of bilateral carotid arteries,Division of Chest,1,Adult,2012,4,6,04/06/2012,Q2,717,2291,COLORADO,Male
+UT,30,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,4,5,04/05/2012,Q2,398,2582,UTAH,Male
+ID,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,1,Adult,2012,4,5,04/05/2012,Q2,359,2327,IDAHO,Male
+IL,90,"Cerebrovascular disease, unspecified",Division of Chest,2,Youth,2012,4,5,04/05/2012,Q2,315,1153,ILLINOIS,Female
+NE,90,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Chest,2,Adult,2012,4,5,04/05/2012,Q2,3952,11339,State of Nebraska,Female
+PA,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Hematology & Oncology,2,Adult,2012,4,4,04/04/2012,Q2,2372,9450,PENNSYLVANIA,Female
+NM,30,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,Division of Cardiovascular Surgery,1,Adult,2012,4,4,04/04/2012,Q2,2215,10045,NEW MEXICO,Male
+MN,30,Cerebral infarction due to embolism of unspecified posterior cerebral artery,Division of Hematology & Oncology,1,Youth,2012,4,3,04/03/2012,Q2,116,729,MINNESOTA,Male
+LA,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Youth,2012,4,3,04/03/2012,Q2,41,318,LOUISIANA,Male
+WV,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,2,Youth,2012,4,2,04/02/2012,Q2,230,1268,WEST VIRGINIA,Female
+AL,90,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Chest,2,Adult,2012,3,28,03/28/2012,Q1,499,1561,ALABAMA,Female
+NH,90,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2012,3,27,03/27/2012,Q1,417,1440,NEW HAMPSHIRE,Female
+MS,90,Cerebral infarction due to embolism of right middle cerebral artery,Division of Cardiology,2,Adult,2012,3,25,03/25/2012,Q1,233,756,MISSISSIPPI,Female
+AS,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Chest,1,Adult,2012,3,24,03/24/2012,Q1,639,2389,American Samoa,Male
+OH,90,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,Division of Cardiology,2,Youth,2012,3,24,03/24/2012,Q1,64,290,OHIO,Female
+AR,30,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Hematology & Oncology,1,Adult,2012,3,23,03/23/2012,Q1,133,674,ARKANSAS,Male
+VA,90,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiology,1,Youth,2012,3,23,03/23/2012,Q1,138,696,VIRGINIA,Male
+UT,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiology,1,Youth,2012,3,22,03/22/2012,Q1,126,627,UTAH,Male
+HI,30,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Cardiovascular Surgery,1,Adult,2012,3,20,03/20/2012,Q1,262,1225,HAWAII,Male
+ME,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,3,20,03/20/2012,Q1,54,323,MAINE,Male
+WV,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,2,Youth,2012,3,18,03/18/2012,Q1,230,1268,WEST VIRGINIA,Female
+WV,90,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,2,Adult,2012,3,18,03/18/2012,Q1,396,1287,WEST VIRGINIA,Female
+CT,30,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2012,3,14,03/14/2012,Q1,205,948,CONNECTICUT,Male
+WI,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Hematology & Oncology,2,Youth,2012,3,12,03/12/2012,Q1,187,943,WISCONSIN,Female
+AK,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Hematology & Oncology,1,Youth,2012,3,10,03/10/2012,Q1,258,1383,ALASKA,Male
+TX,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Hematology & Oncology,2,Youth,2012,3,8,03/08/2012,Q1,134,759,TEXAS,Female
+GA,30,Occlusion and stenosis of right posterior cerebral artery,Division of Hematology & Oncology,1,Adult,2012,3,7,03/07/2012,Q1,234,1147,GEORGIA,Male
+MD,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiovascular Surgery,1,Youth,2012,3,7,03/07/2012,Q1,46,297,MARYLAND,Male
+NM,90,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Cardiology,2,Adult,2012,3,6,03/06/2012,Q1,499,1455,NEW MEXICO,Female
+SC,90,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiology,1,Youth,2012,3,4,03/04/2012,Q1,79,370,SOUTH CAROLINA,Male
+ME,90,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiology,2,Youth,2012,2,27,02/27/2012,Q1,85,437,MAINE,Female
+MD,30,Cerebral infarction due to embolism of unspecified anterior cerebral artery,Division of Hematology & Oncology,1,Youth,2012,2,26,02/26/2012,Q1,107,746,MARYLAND,Male
+OH,30,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Hematology & Oncology,2,Adult,2012,2,24,02/24/2012,Q1,1152,5122,OHIO,Female
+GU,90,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiology,2,Youth,2012,2,24,02/24/2012,Q1,48,253,Guam,Female
+RI,30,Occlusion and stenosis of unspecified carotid artery,Division of Hematology & Oncology,2,Adult,2012,2,22,02/22/2012,Q1,2551,11189,RHODE ISLAND,Female
+AZ,90,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Adult,2012,2,22,02/22/2012,Q1,308,1169,ARIZONA,Male
+VT,30,Cerebral infarction due to embolism of other precerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,2,18,02/18/2012,Q1,624,4057,VERMONT,Male
+AS,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiovascular Surgery,1,Adult,2012,2,16,02/16/2012,Q1,301,1071,American Samoa,Male
+GA,90,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,2,Youth,2012,2,16,02/16/2012,Q1,45,258,GEORGIA,Female
+PA,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Hematology & Oncology,2,Adult,2012,2,15,02/15/2012,Q1,2372,9450,PENNSYLVANIA,Female
+NJ,30,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,2,Adult,2012,2,12,02/12/2012,Q1,1120,5316,NEW JERSEY,Female
+DE,90,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,2,Adult,2012,2,9,02/09/2012,Q1,426,1725,DELAWARE,Female
+VI,30,Cerebral infarction due to thrombosis of other precerebral artery,Division of Cardiovascular Surgery,1,Youth,2012,2,8,02/08/2012,Q1,621,4230,VIRGIA ISLAND,Male
+MA,90,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,Division of Cardiology,2,Youth,2012,2,8,02/08/2012,Q1,83,426,MASSACHUSETTS,Female
+CT,90,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,2,Adult,2012,2,5,02/05/2012,Q1,381,1651,CONNECTICUT,Female
+MP,90,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Cardiology,2,Adult,2012,2,3,02/03/2012,Q1,231,816,Sankattan Siha Na Islas Mari?nas,Female
+MO,30,Cerebral infarction due to embolism of right cerebellar artery,Division of Hematology & Oncology,1,Youth,2012,2,2,02/02/2012,Q1,135,797,MISSOURI,Male
+MS,30,Cerebral infarction due to embolism of unspecified cerebellar artery,Division of Hematology & Oncology,1,Youth,2012,2,2,02/02/2012,Q1,161,1150,MISSISSIPPI,Male
+MT,30,Cerebral infarction due to embolism of other cerebral artery,Division of Hematology & Oncology,1,Youth,2012,2,1,02/01/2012,Q1,206,1345,MONTANA,Male
+NJ,30,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,Division of Cardiovascular Surgery,2,Adult,2012,1,28,01/28/2012,Q1,2032,9750,NEW JERSEY,Female
+SD,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiovascular Surgery,1,Youth,2012,1,28,01/28/2012,Q1,354,2345,SOUTH DAKOTA,Male
+NV,90,Occlusion and stenosis of unspecified carotid artery,Division of Chest,1,Youth,2012,1,27,01/27/2012,Q1,227,759,NEVADA,Male
+NE,30,Cerebral infarction due to embolism of basilar artery,Division of Cardiovascular Surgery,2,Adult,2012,1,26,01/26/2012,Q1,1859,8835,State of Nebraska,Female
+WA,30,Cerebral infarction due to thrombosis of other cerebral artery,Division of Chest,2,Youth,2012,1,25,01/25/2012,Q1,38,290,WASHINGTON,Female
+MI,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,1,24,01/24/2012,Q1,74,519,MICHIGAN,Male
+KS,30,Cerebral infarction due to embolism of left middle cerebral artery,Division of Hematology & Oncology,1,Adult,2012,1,23,01/23/2012,Q1,448,2273,KANSAS,Male
+MN,90,Cerebral infarction due to embolism of unspecified carotid artery,Division of Chest,1,Adult,2012,1,22,01/22/2012,Q1,1786,5316,MINNESOTA,Male
+IN,90,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Chest,2,Youth,2012,1,21,01/21/2012,Q1,395,1353,INDIANA,Female
+MO,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiovascular Surgery,2,Youth,2012,1,20,01/20/2012,Q1,81,478,MISSOURI,Female
+ID,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,1,Adult,2012,1,19,01/19/2012,Q1,359,2327,IDAHO,Male
+CO,90,Occlusion and stenosis of bilateral carotid arteries,Division of Chest,1,Adult,2012,1,19,01/19/2012,Q1,717,2291,COLORADO,Male
+FL,30,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,Division of Chest,2,Adult,2012,1,18,01/18/2012,Q1,248,1218,FLORIDA,Female
+GU,90,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,2,Youth,2012,1,18,01/18/2012,Q1,210,746,Guam,Female
+AZ,30,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery,Division of Chest,2,Youth,2012,1,16,01/16/2012,Q1,65,679,ARIZONA,Female
+IA,30,"Cerebral infarction, unspecified",Division of Chest,1,Adult,2012,1,13,01/13/2012,Q1,349,1561,IOWA,Male
+VA,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiovascular Surgery,1,Youth,2012,1,12,01/12/2012,Q1,461,2732,VIRGINIA,Male
+IL,90,"Cerebrovascular disease, unspecified",Division of Chest,2,Youth,2012,1,11,01/11/2012,Q1,315,1153,ILLINOIS,Female
+MI,90,Cerebral infarction due to embolism of left carotid artery,Division of Chest,1,Adult,2012,1,11,01/11/2012,Q1,1748,5316,MICHIGAN,Male
+TX,30,"Thoracic aortic aneurysm, ruptured",Division of Chest,1,Adult,2012,1,8,01/08/2012,Q1,336,1451,TEXAS,Male
+OK,30,Occlusion and stenosis of left carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,1,7,01/07/2012,Q1,3684,17804,OKLAHOMA,Male
+IA,90,Occlusion and stenosis of left posterior cerebral artery,Division of Chest,2,Youth,2012,1,7,01/07/2012,Q1,237,751,IOWA,Female
+CA,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Chest,2,Youth,2012,1,6,01/06/2012,Q1,78,617,CALIFORNIA,Female
+MT,90,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Chest,1,Adult,2012,1,5,01/05/2012,Q1,3515,9562,MONTANA,Male
+NE,90,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Chest,2,Adult,2012,1,5,01/05/2012,Q1,3952,11339,State of Nebraska,Female
+OH,30,Occlusion and stenosis of right carotid artery,Division of Cardiovascular Surgery,1,Adult,2012,1,3,01/03/2012,Q1,3643,16034,OHIO,Male
+AL,30,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Division of Chest,2,Youth,2012,1,2,01/02/2012,Q1,52,393,ALABAMA,Female
+ME,60,Cerebral infarction due to thrombosis of left middle cerebral artery,Division of Hematology & Oncology,1,Adult,2011,12,28,12/28/2011,Q4,113,735,MAINE,Male
+NY,30,Occlusion and stenosis of left middle cerebral artery,Division of Chest,1,Adult,2011,12,24,12/24/2011,Q4,120,667,NEW YORK,Male
+VT,60,Occlusion and stenosis of other precerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,12,24,12/24/2011,Q4,68,1238,VERMONT,Female
+GA,60,Occlusion and stenosis of left anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,12,23,12/23/2011,Q4,66,1007,GEORGIA,Male
+WI,60,Occlusion and stenosis of unspecified middle cerebral artery,Division of Hematology & Oncology,2,Adult,2011,12,23,12/23/2011,Q4,742,3733,WISCONSIN,Female
+SC,30,Occlusion and stenosis of right posterior cerebral artery,Division of Chest,1,Adult,2011,12,22,12/22/2011,Q4,172,749,SOUTH CAROLINA,Male
+AR,60,Cerebral infarction due to embolism of unspecified precerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,12,22,12/22/2011,Q4,38,596,ARKANSAS,Male
+SD,60,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Hematology & Oncology,1,Adult,2011,12,22,12/22/2011,Q4,91,1034,SOUTH DAKOTA,Male
+AS,60,Occlusion and stenosis of left posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,12,20,12/20/2011,Q4,802,2788,American Samoa,Female
+DE,60,Occlusion and stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,12,19,12/19/2011,Q4,58,1034,DELAWARE,Male
+MO,60,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,12,17,12/17/2011,Q4,1357,3913,MISSOURI,Female
+MT,60,Occlusion and stenosis of cerebellar arteries,Division of Cardiology,2,Adult,2011,12,15,12/15/2011,Q4,2115,7135,MONTANA,Female
+VA,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,12,15,12/15/2011,Q4,61,1289,VIRGINIA,Female
+GU,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Cardiology,1,Adult,2011,12,14,12/14/2011,Q4,165,992,Guam,Male
+CT,60,Occlusion and stenosis of left middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,12,14,12/14/2011,Q4,48,656,CONNECTICUT,Male
+KS,60,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,12,14,12/14/2011,Q4,255,2788,KANSAS,Male
+NY,60,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,12,14,12/14/2011,Q4,3887,15020,NEW YORK,Female
+OK,60,Cerebral infarction due to thrombosis of unspecified middle cerebral artery,Division of Cardiology,2,Adult,2011,12,13,12/13/2011,Q4,43,468,OKLAHOMA,Female
+PR,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,Division of Hematology & Oncology,2,Adult,2011,12,13,12/13/2011,Q4,64,656,PUERTO RICO,Female
+AR,60,Occlusion and stenosis of right posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,12,13,12/13/2011,Q4,784,4129,ARKANSAS,Female
+HI,60,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,12,11,12/11/2011,Q4,168,1932,HAWAII,Male
+NY,60,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,12,9,12/09/2011,Q4,2000,15020,NEW YORK,Male
+UT,60,Occlusion and stenosis of left vertebral artery,Division of Hematology & Oncology,1,Adult,2011,12,9,12/09/2011,Q4,417,1932,UTAH,Male
+AK,60,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Hematology & Oncology,2,Adult,2011,12,9,12/09/2011,Q4,770,2534,ALASKA,Female
+NM,60,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2011,12,5,12/05/2011,Q4,2995,7199,NEW MEXICO,Female
+ME,60,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,12,5,12/05/2011,Q4,294,2534,MAINE,Female
+SC,60,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,1,Adult,2011,12,5,12/05/2011,Q4,91,1007,SOUTH CAROLINA,Male
+MI,60,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,12,2,12/02/2011,Q4,296,3733,MICHIGAN,Female
+MN,60,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,12,2,12/02/2011,Q4,353,4129,MINNESOTA,Female
+NJ,60,Occlusion and stenosis of cerebellar arteries,Division of Cardiology,2,Adult,2011,12,1,12/01/2011,Q4,2801,7176,NEW JERSEY,Female
+IL,30,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Chest,2,Adult,2011,11,28,11/28/2011,Q4,2000,14974,ILLINOIS,Female
+NM,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Adult,2011,11,28,11/28/2011,Q4,3689,14243,NEW MEXICO,Male
+CT,30,Nontraumatic chronic subdural hemorrhage,Division of Chest,1,Adult,2011,11,26,11/26/2011,Q4,67,1127,CONNECTICUT,Male
+NV,30,Occlusion and stenosis of right middle cerebral artery,Division of Chest,1,Adult,2011,11,25,11/25/2011,Q4,113,678,NEVADA,Male
+ND,60,Cerebral infarction due to thrombosis of right cerebellar artery,Division of Hematology & Oncology,2,Adult,2011,11,25,11/25/2011,Q4,2245,7419,NORTH DAKOTA,Female
+OK,60,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,11,21,11/21/2011,Q4,4472,12214,OKLAHOMA,Female
+HI,60,Cerebral infarction due to embolism of left vertebral artery,Division of Hematology & Oncology,1,Adult,2011,11,21,11/21/2011,Q4,3421,7176,HAWAII,Male
+AK,30,Fluency disorder following nontraumatic intracerebral hemorrhage,Division of Chest,2,Adult,2011,11,19,11/19/2011,Q4,97,721,ALASKA,Female
+DE,30,Occlusion and stenosis of other precerebral arteries,Division of Chest,1,Adult,2011,11,18,11/18/2011,Q4,1966,7334,DELAWARE,Male
+ME,30,Occlusion and stenosis of unspecified middle cerebral artery,Division of Cardiology,1,Youth,2011,11,17,11/17/2011,Q4,22,239,MAINE,Male
+MO,30,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Chest,1,Youth,2011,11,16,11/16/2011,Q4,32,265,MISSOURI,Male
+NH,30,Occlusion and stenosis of other cerebral arteries,Division of Chest,1,Youth,2011,11,16,11/16/2011,Q4,44,274,NEW HAMPSHIRE,Male
+WI,60,Cerebral infarction due to embolism of other precerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,11,16,11/16/2011,Q4,78,919,WISCONSIN,Female
+IN,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,Division of Chest,2,Adult,2011,11,15,11/15/2011,Q4,3889,12023,INDIANA,Female
+GU,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,2,Adult,2011,11,14,11/14/2011,Q4,3192,14160,Guam,Female
+WY,14,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries,Division of Chest,2,Adult,2011,11,14,11/14/2011,Q4,51,933,WYOMING,Female
+CA,30,Nontraumatic acute subdural hemorrhage,Division of Chest,1,Adult,2011,11,12,11/12/2011,Q4,115,759,CALIFORNIA,Male
+MS,60,Cerebral infarction due to thrombosis of right posterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,11,10,11/10/2011,Q4,148,1130,MISSISSIPPI,Male
+ID,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Cardiology,1,Adult,2011,11,9,11/09/2011,Q4,189,1045,IDAHO,Male
+WA,60,Cerebral infarction due to thrombosis of other precerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,11,6,11/06/2011,Q4,78,916,WASHINGTON,Female
+AK,60,Cerebral infarction due to thrombosis of unspecified precerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,11,6,11/06/2011,Q4,21,503,ALASKA,Male
+TN,60,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Cardiovascular Surgery,2,Adult,2011,11,5,11/05/2011,Q4,42,603,TENNESSEE,Female
+OR,60,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,11,2,11/02/2011,Q4,4581,12064,OREGON,Female
+MT,60,Cerebral infarction due to thrombosis of left posterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,11,2,11/02/2011,Q4,149,759,MONTANA,Male
+ND,30,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Chest,1,Youth,2011,10,28,10/28/2011,Q4,42,410,NORTH DAKOTA,Male
+PR,60,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery,Division of Cardiology,1,Adult,2011,10,28,10/28/2011,Q4,78,735,PUERTO RICO,Male
+VI,14,Cerebral infarction due to embolism of unspecified middle cerebral artery,Division of Cardiology,1,Adult,2011,10,27,10/27/2011,Q4,109,1130,VIRGIA ISLAND,Male
+MA,60,Cerebral infarction due to thrombosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Adult,2011,10,27,10/27/2011,Q4,111,933,MASSACHUSETTS,Male
+KY,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiology,1,Adult,2011,10,26,10/26/2011,Q4,230,1556,KENTUCKY,Male
+MD,30,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Cardiology,1,Adult,2011,10,26,10/26/2011,Q4,256,1749,MARYLAND,Male
+MT,60,Cerebral infarction due to embolism of other precerebral artery,Division of Chest,1,Adult,2011,10,26,10/26/2011,Q4,79,1238,MONTANA,Male
+AZ,45,Cerebral infarction due to embolism of other cerebral artery,Division of Cardiology,1,Adult,2011,10,25,10/25/2011,Q4,3250,12214,ARIZONA,Male
+NE,60,Cerebral infarction due to thrombosis of left carotid artery,Division of Chest,1,Adult,2011,10,24,10/24/2011,Q4,90,916,State of Nebraska,Male
+IA,60,Cerebral infarction due to embolism of unspecified vertebral artery,Division of Hematology & Oncology,1,Adult,2011,10,23,10/23/2011,Q4,3508,7199,IOWA,Male
+MS,60,Cerebral infarction due to thrombosis of other precerebral artery,Division of Chest,1,Adult,2011,10,22,10/22/2011,Q4,77,1289,MISSISSIPPI,Male
+NC,60,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Chest,1,Adult,2011,10,22,10/22/2011,Q4,81,919,NORTH CAROLINA,Male
+NM,60,Cerebral infarction due to embolism of left carotid artery,Division of Chest,2,Adult,2011,10,22,10/22/2011,Q4,30,503,NEW MEXICO,Female
+OK,60,Cerebral infarction due to thrombosis of other precerebral artery,Division of Chest,2,Adult,2011,10,21,10/21/2011,Q4,55,596,OKLAHOMA,Female
+MI,60,Occlusion and stenosis of bilateral carotid arteries,Division of Chest,1,Adult,2011,10,20,10/20/2011,Q4,47,603,MICHIGAN,Male
+CA,60,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,10,19,10/19/2011,Q4,1687,3913,CALIFORNIA,Female
+VA,14,Cerebral infarction due to embolism of left middle cerebral artery,Division of Cardiology,1,Adult,2011,10,18,10/18/2011,Q4,107,759,VIRGINIA,Male
+AK,45,Cerebral infarction due to embolism of unspecified posterior cerebral artery,Division of Cardiology,1,Adult,2011,10,15,10/15/2011,Q4,2654,14243,ALASKA,Male
+ND,60,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2011,10,13,10/13/2011,Q4,2265,7635,NORTH DAKOTA,Female
+RI,60,Cerebral infarction due to thrombosis of right posterior cerebral artery,Division of Cardiology,1,Adult,2011,10,12,10/12/2011,Q4,79,933,RHODE ISLAND,Male
+KS,60,Occlusion and stenosis of other precerebral arteries,Division of Hematology & Oncology,1,Adult,2011,10,12,10/12/2011,Q4,64,468,KANSAS,Male
+NE,30,Occlusion and stenosis of cerebellar arteries,Division of Chest,1,Youth,2011,10,11,10/11/2011,Q4,43,443,State of Nebraska,Male
+KS,30,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Chest,2,Adult,2011,10,10,10/10/2011,Q4,4022,12064,KANSAS,Female
+FL,60,Cerebral infarction due to thrombosis of left vertebral artery,Division of Hematology & Oncology,2,Adult,2011,10,10,10/10/2011,Q4,2824,7635,FLORIDA,Female
+WA,14,Cerebral infarction due to embolism of left anterior cerebral artery,Division of Cardiology,1,Adult,2011,10,9,10/09/2011,Q4,1631,7419,WASHINGTON,Male
+AS,45,Cerebral infarction due to embolism of unspecified cerebellar artery,Division of Cardiology,1,Adult,2011,10,7,10/07/2011,Q4,2816,15020,American Samoa,Male
+FL,30,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery,Division of Cardiology,1,Adult,2011,10,3,10/03/2011,Q4,135,831,FLORIDA,Male
+CA,45,Cerebral infarction due to thrombosis of left cerebellar artery,Division of Cardiology,1,Adult,2011,10,1,10/01/2011,Q4,3522,12064,CALIFORNIA,Male
+NE,60,Cerebral infarction due to thrombosis of left cerebellar artery,Division of Hematology & Oncology,2,Adult,2011,9,28,09/28/2011,Q3,2784,8519,State of Nebraska,Female
+NY,60,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,9,27,09/27/2011,Q3,3887,15020,NEW YORK,Female
+MS,60,Cerebral infarction due to thrombosis of right posterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,9,27,09/27/2011,Q3,148,1130,MISSISSIPPI,Male
+AS,60,Cerebral infarction due to embolism of other precerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,25,09/25/2011,Q3,39,506,American Samoa,Male
+PR,60,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,24,09/24/2011,Q3,4893,13034,PUERTO RICO,Male
+DE,60,Occlusion and stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,21,09/21/2011,Q3,58,1034,DELAWARE,Male
+CO,60,Occlusion and stenosis of right middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,17,09/17/2011,Q3,46,642,COLORADO,Male
+FL,30,Occlusion and stenosis of unspecified precerebral artery,Division of Chest,1,Adult,2011,9,15,09/15/2011,Q3,2483,8519,FLORIDA,Male
+IL,30,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Chest,2,Adult,2011,9,15,09/15/2011,Q3,3417,14974,ILLINOIS,Female
+ME,60,Dissection of unspecified site of aorta,Division of Chest,1,Adult,2011,9,15,09/15/2011,Q3,37,681,MAINE,Male
+GU,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,2,Adult,2011,9,14,09/14/2011,Q3,3192,14160,Guam,Female
+SD,60,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,9,14,09/14/2011,Q3,34,681,SOUTH DAKOTA,Female
+GA,60,Occlusion and stenosis of left anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,14,09/14/2011,Q3,66,1007,GEORGIA,Male
+IL,60,Occlusion and stenosis of right middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,10,09/10/2011,Q3,222,2087,ILLINOIS,Male
+CT,30,Nontraumatic chronic subdural hemorrhage,Division of Chest,1,Adult,2011,9,9,09/09/2011,Q3,55,1127,CONNECTICUT,Male
+LA,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Chest,2,Adult,2011,9,8,09/08/2011,Q3,4271,13034,LOUISIANA,Female
+NY,60,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,9,7,09/07/2011,Q3,3887,15020,NEW YORK,Female
+CO,60,Occlusion and stenosis of unspecified precerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,9,7,09/07/2011,Q3,97,972,COLORADO,Male
+MS,60,Cerebral infarction due to thrombosis of other precerebral artery,Division of Chest,1,Adult,2011,9,4,09/04/2011,Q3,77,1289,MISSISSIPPI,Male
+VA,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,9,4,09/04/2011,Q3,61,1289,VIRGINIA,Female
+VT,60,Occlusion and stenosis of other precerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,9,4,09/04/2011,Q3,68,1238,VERMONT,Female
+NM,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Adult,2011,9,1,09/01/2011,Q3,3689,14243,NEW MEXICO,Male
+DC,60,Occlusion and stenosis of unspecified vertebral artery,Division of Hematology & Oncology,2,Adult,2011,8,27,08/27/2011,Q3,2629,7135,DISTRICT OF COLUMBIA,Female
+WY,14,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries,Division of Chest,2,Adult,2011,8,22,08/22/2011,Q3,40,933,WYOMING,Female
+NE,30,Occlusion and stenosis of cerebellar arteries,Division of Chest,1,Youth,2011,8,20,08/20/2011,Q3,43,443,State of Nebraska,Male
+OK,30,Occlusion and stenosis of unspecified middle cerebral artery,Division of Chest,1,Adult,2011,8,19,08/19/2011,Q3,147,804,OKLAHOMA,Male
+RI,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Chest,1,Adult,2011,8,18,08/18/2011,Q3,166,816,RHODE ISLAND,Male
+IL,60,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries,Division of Hematology & Oncology,1,Adult,2011,8,18,08/18/2011,Q3,3813,7985,ILLINOIS,Male
+CO,60,Occlusion and stenosis of cerebellar arteries,Division of Hematology & Oncology,2,Adult,2011,8,16,08/16/2011,Q3,2080,4712,COLORADO,Female
+MO,60,Cerebral infarction due to thrombosis of left anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,8,10,08/10/2011,Q3,135,794,MISSOURI,Male
+AS,30,"Cerebrovascular disease, unspecified",Division of Chest,2,Adult,2011,8,7,08/07/2011,Q3,111,794,American Samoa,Female
+KY,60,Occlusion and stenosis of unspecified precerebral artery,Division of Hematology & Oncology,1,Adult,2011,8,4,08/04/2011,Q3,85,533,KENTUCKY,Male
+MA,60,Cerebral infarction due to thrombosis of unspecified cerebral artery,Division of Hematology & Oncology,1,Adult,2011,8,3,08/03/2011,Q3,111,933,MASSACHUSETTS,Male
+DC,60,Occlusion and stenosis of unspecified vertebral artery,Division of Hematology & Oncology,2,Adult,2011,8,2,08/02/2011,Q3,2629,7135,DISTRICT OF COLUMBIA,Female
+FL,60,Cerebral infarction due to thrombosis of left vertebral artery,Division of Hematology & Oncology,2,Adult,2011,8,1,08/01/2011,Q3,2824,7635,FLORIDA,Female
+DC,45,Cerebral infarction due to thrombosis of other cerebral artery,Division of Cardiology,1,Adult,2011,7,27,07/27/2011,Q3,3715,13034,DISTRICT OF COLUMBIA,Male
+SD,60,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Hematology & Oncology,1,Adult,2011,7,27,07/27/2011,Q3,91,1034,SOUTH DAKOTA,Male
+AL,60,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,7,27,07/27/2011,Q3,775,2641,ALABAMA,Female
+NJ,60,Cerebral infarction due to embolism of right carotid artery,Division of Chest,2,Adult,2011,7,22,07/22/2011,Q3,107,972,NEW JERSEY,Female
+SC,60,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Hematology & Oncology,1,Adult,2011,7,22,07/22/2011,Q3,91,1007,SOUTH CAROLINA,Male
+IL,30,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,Division of Cardiology,1,Adult,2011,7,21,07/21/2011,Q3,196,1180,ILLINOIS,Male
+AS,45,Cerebral infarction due to embolism of unspecified cerebellar artery,Division of Cardiology,1,Adult,2011,7,21,07/21/2011,Q3,2816,15020,American Samoa,Male
+VI,14,Cerebral infarction due to embolism of unspecified middle cerebral artery,Division of Cardiology,1,Adult,2011,7,19,07/19/2011,Q3,109,1130,VIRGIA ISLAND,Male
+WI,14,Cerebral infarction due to embolism of unspecified anterior cerebral artery,Division of Cardiology,1,Adult,2011,7,18,07/18/2011,Q3,2103,8519,WISCONSIN,Male
+MT,60,Occlusion and stenosis of cerebellar arteries,Division of Cardiology,2,Adult,2011,7,18,07/18/2011,Q3,2115,7135,MONTANA,Female
+RI,60,Cerebral infarction due to thrombosis of right posterior cerebral artery,Division of Cardiology,1,Adult,2011,7,18,07/18/2011,Q3,79,933,RHODE ISLAND,Male
+TN,60,Cerebral infarction due to thrombosis of right cerebellar artery,Division of Cardiology,1,Adult,2011,7,18,07/18/2011,Q3,86,794,TENNESSEE,Male
+KY,30,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiology,1,Adult,2011,7,17,07/17/2011,Q3,230,1556,KENTUCKY,Male
+MI,30,Occlusion and stenosis of right anterior cerebral artery,Division of Chest,1,Youth,2011,7,17,07/17/2011,Q3,26,242,MICHIGAN,Male
+ND,60,Occlusion and stenosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2011,7,17,07/17/2011,Q3,2265,7635,NORTH DAKOTA,Female
+NY,60,Cerebral infarction due to thrombosis of right middle cerebral artery,Division of Cardiology,2,Adult,2011,7,16,07/16/2011,Q3,3232,7985,NEW YORK,Female
+IN,60,Occlusion and stenosis of left middle cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,7,16,07/16/2011,Q3,254,2641,INDIANA,Male
+AR,60,Occlusion and stenosis of right posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,7,16,07/16/2011,Q3,784,4129,ARKANSAS,Female
+MI,60,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,7,15,07/15/2011,Q3,296,3733,MICHIGAN,Female
+NY,60,Cerebral infarction due to embolism of unspecified carotid artery,Division of Chest,2,Adult,2011,7,14,07/14/2011,Q3,51,506,NEW YORK,Female
+MT,60,Cerebral infarction due to embolism of other precerebral artery,Division of Chest,1,Adult,2011,7,12,07/12/2011,Q3,79,1238,MONTANA,Male
+PA,60,Cerebral infarction due to embolism of other precerebral artery,Division of Chest,2,Adult,2011,7,12,07/12/2011,Q3,63,642,PENNSYLVANIA,Female
+MD,30,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Cardiology,1,Adult,2011,7,11,07/11/2011,Q3,256,1749,MARYLAND,Male
+IA,30,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery,Division of Cardiology,1,Adult,2011,7,9,07/09/2011,Q3,186,1028,IOWA,Male
+MN,60,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,7,9,07/09/2011,Q3,353,4129,MINNESOTA,Female
+AK,45,Cerebral infarction due to embolism of unspecified posterior cerebral artery,Division of Cardiology,1,Adult,2011,7,8,07/08/2011,Q3,2654,14243,ALASKA,Male
+OR,60,Cerebral infarction due to thrombosis of right anterior cerebral artery,Division of Cardiology,1,Adult,2011,7,8,07/08/2011,Q3,54,533,OREGON,Male
+WI,60,Occlusion and stenosis of unspecified middle cerebral artery,Division of Hematology & Oncology,2,Adult,2011,7,7,07/07/2011,Q3,742,3733,WISCONSIN,Female
+MP,30,Occlusion and stenosis of unspecified anterior cerebral artery,Division of Chest,1,Youth,2011,7,6,07/06/2011,Q3,33,229,Sankattan Siha Na Islas Mari?nas,Male
+VI,60,Occlusion and stenosis of right middle cerebral artery,Division of Hematology & Oncology,1,Adult,2011,7,5,07/05/2011,Q3,531,2087,VIRGIA ISLAND,Male
+MP,60,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,7,4,07/04/2011,Q3,1754,4712,Sankattan Siha Na Islas Mari?nas,Female
+ND,30,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Chest,1,Youth,2011,7,3,07/03/2011,Q3,42,410,NORTH DAKOTA,Male
+WA,60,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Hematology & Oncology,1,Adult,2011,6,28,06/28/2011,Q2,708,3886,WASHINGTON,Male
+NJ,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,1,Youth,2011,6,27,06/27/2011,Q2,46,419,NEW JERSEY,Male
+CT,60,Occlusion and stenosis of unspecified cerebral artery,Division of Hematology & Oncology,2,Adult,2011,6,27,06/27/2011,Q2,2330,5142,CONNECTICUT,Female
+DE,60,Cerebral infarction due to thrombosis of right vertebral artery,Division of Hematology & Oncology,2,Adult,2011,6,27,06/27/2011,Q2,2683,7458,DELAWARE,Female
+WV,60,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,6,24,06/24/2011,Q2,764,3736,WEST VIRGINIA,Female
+AZ,60,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Hematology & Oncology,2,Adult,2011,6,24,06/24/2011,Q2,828,2804,ARIZONA,Female
+TX,14,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Cardiology,1,Adult,2011,6,21,06/21/2011,Q2,88,902,TEXAS,Male
+MT,30,Occlusion and stenosis of left posterior cerebral artery,Division of Chest,1,Youth,2011,6,20,06/20/2011,Q2,38,315,MONTANA,Male
+LA,60,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Hematology & Oncology,1,Adult,2011,6,18,06/18/2011,Q2,99,557,LOUISIANA,Male
+PA,30,Occlusion and stenosis of left anterior cerebral artery,Division of Chest,1,Adult,2011,6,17,06/17/2011,Q2,153,768,PENNSYLVANIA,Male
+NE,60,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Cardiology,2,Adult,2011,6,17,06/17/2011,Q2,2284,7280,State of Nebraska,Female
+MI,60,Cerebral infarction due to thrombosis of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Adult,2011,6,14,06/14/2011,Q2,126,902,MICHIGAN,Male
+PR,30,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Chest,1,Adult,2011,6,13,06/13/2011,Q2,164,858,PUERTO RICO,Male
+MA,30,Occlusion and stenosis of left middle cerebral artery,Division of Cardiology,1,Adult,2011,6,13,06/13/2011,Q2,253,1713,MASSACHUSETTS,Male
+WY,14,Cerebral infarction due to embolism of left posterior cerebral artery,Division of Cardiology,1,Adult,2011,6,13,06/13/2011,Q2,2634,14519,WYOMING,Male
+TX,60,Occlusion and stenosis of right vertebral artery,Division of Hematology & Oncology,1,Adult,2011,6,13,06/13/2011,Q2,98,1012,TEXAS,Male
+VA,60,Occlusion and stenosis of bilateral vertebral arteries,Division of Hematology & Oncology,1,Adult,2011,6,13,06/13/2011,Q2,520,2120,VIRGINIA,Male
+GU,60,Cerebral infarction due to embolism of right vertebral artery,Division of Hematology & Oncology,1,Adult,2011,6,13,06/13/2011,Q2,2863,7280,Guam,Male
+IN,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries,Division of Hematology & Oncology,1,Adult,2011,6,13,06/13/2011,Q2,3996,8260,INDIANA,Male
+NC,30,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Chest,1,Youth,2011,6,12,06/12/2011,Q2,42,261,NORTH CAROLINA,Male
+TN,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Hematology & Oncology,1,Adult,2011,6,11,06/11/2011,Q2,96,1065,TENNESSEE,Male
+UT,14,Cerebral infarction due to embolism of right middle cerebral artery,Division of Cardiology,1,Adult,2011,6,6,06/06/2011,Q2,100,1057,UTAH,Male
+AR,45,Cerebral infarction due to embolism of left cerebellar artery,Division of Cardiology,2,Adult,2011,6,6,06/06/2011,Q2,2801,14259,ARKANSAS,Female
+LA,30,Occlusion and stenosis of right middle cerebral artery,Division of Cardiology,1,Adult,2011,6,3,06/03/2011,Q2,236,1633,LOUISIANA,Male
+NC,60,Occlusion and stenosis of other cerebral arteries,Division of Cardiology,2,Adult,2011,6,3,06/03/2011,Q2,2145,7458,NORTH CAROLINA,Female
+DE,45,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Cardiology,1,Adult,2011,5,27,05/27/2011,Q2,3864,13558,DELAWARE,Male
+ID,30,Cerebral infarction due to embolism of other precerebral artery,Division of Chest,2,Adult,2011,5,24,05/24/2011,Q2,1500,14194,IDAHO,Female
+OH,60,Cerebral infarction due to thrombosis of left middle cerebral artery,Division of Cardiology,2,Adult,2011,5,24,05/24/2011,Q2,3386,8260,OHIO,Female
+SC,60,Cerebral infarction due to thrombosis of left posterior cerebral artery,Division of Cardiology,1,Adult,2011,5,24,05/24/2011,Q2,80,786,SOUTH CAROLINA,Male
+RI,60,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Hematology & Oncology,1,Adult,2011,5,24,05/24/2011,Q2,75,666,RHODE ISLAND,Male
+ND,60,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Chest,1,Adult,2011,5,23,05/23/2011,Q2,88,1042,NORTH DAKOTA,Male
+IA,60,Occlusion and stenosis of right posterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,5,21,05/21/2011,Q2,194,2120,IOWA,Male
+MD,60,Occlusion and stenosis of left carotid artery,Division of Chest,2,Adult,2011,5,19,05/19/2011,Q2,34,697,MARYLAND,Female
+MN,60,Occlusion and stenosis of unspecified carotid artery,Division of Chest,1,Adult,2011,5,17,05/17/2011,Q2,30,1208,MINNESOTA,Male
+MS,60,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,5,17,05/17/2011,Q2,1946,5142,MISSISSIPPI,Female
+LA,60,Occlusion and stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,5,15,05/15/2011,Q2,262,2804,LOUISIANA,Female
+OH,60,Cerebral infarction due to thrombosis of unspecified precerebral artery,Division of Chest,2,Adult,2011,5,10,05/10/2011,Q2,51,509,OHIO,Female
+PA,60,Cerebral infarction due to thrombosis of left anterior cerebral artery,Division of Cardiology,1,Adult,2011,5,5,05/05/2011,Q2,77,557,PENNSYLVANIA,Male
+MA,30,Occlusion and stenosis of right carotid artery,Division of Chest,2,Adult,2011,5,4,05/04/2011,Q2,4499,13558,MASSACHUSETTS,Female
+GA,30,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,Division of Cardiology,1,Adult,2011,5,4,05/04/2011,Q2,148,974,GEORGIA,Male
+WV,14,Cerebral infarction due to embolism of right posterior cerebral artery,Division of Cardiology,1,Adult,2011,5,3,05/03/2011,Q2,2287,9025,WEST VIRGINIA,Male
+IN,30,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Cardiology,1,Adult,2011,5,2,05/02/2011,Q2,206,1156,INDIANA,Male
+MP,60,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,1,Adult,2011,5,1,05/01/2011,Q2,72,1174,Sankattan Siha Na Islas Mari?nas,Male
+MD,60,Occlusion and stenosis of left anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,28,04/28/2011,Q2,289,3886,MARYLAND,Female
+NM,30,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Chest,1,Youth,2011,4,27,04/27/2011,Q2,46,429,NEW MEXICO,Male
+TX,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,4,27,04/27/2011,Q2,51,1208,TEXAS,Female
+GA,30,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Chest,2,Adult,2011,4,26,04/26/2011,Q2,2681,9025,GEORGIA,Female
+AZ,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,4,26,04/26/2011,Q2,41,509,ARIZONA,Male
+AR,30,Nontraumatic extradural hemorrhage,Division of Chest,2,Adult,2011,4,25,04/25/2011,Q2,106,786,ARKANSAS,Female
+MA,60,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,25,04/25/2011,Q2,285,3736,MASSACHUSETTS,Female
+WV,14,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries,Division of Chest,2,Adult,2011,4,23,04/23/2011,Q2,80,557,WEST VIRGINIA,Female
+SC,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,23,04/23/2011,Q2,29,697,SOUTH CAROLINA,Female
+HI,30,Cerebral infarction due to thrombosis of basilar artery,Division of Chest,2,Adult,2011,4,22,04/22/2011,Q2,2000,14565,HAWAII,Female
+RI,60,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,22,04/22/2011,Q2,5117,13558,RHODE ISLAND,Female
+MP,60,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,4,21,04/21/2011,Q2,137,1057,Sankattan Siha Na Islas Mari?nas,Male
+OH,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,20,04/20/2011,Q2,3934,14259,OHIO,Female
+DC,60,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,4,17,04/17/2011,Q2,53,666,DISTRICT OF COLUMBIA,Male
+GU,60,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,4,16,04/16/2011,Q2,69,1012,Guam,Male
+OH,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,15,04/15/2011,Q2,3934,14259,OHIO,Female
+WV,60,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,4,13,04/13/2011,Q2,83,1042,WEST VIRGINIA,Male
+NJ,60,Cerebral infarction due to thrombosis of other cerebral artery,Division of Hematology & Oncology,2,Adult,2011,4,13,04/13/2011,Q2,3675,14519,NEW JERSEY,Female
+VI,60,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,4,11,04/11/2011,Q2,63,1174,VIRGIA ISLAND,Female
+NH,60,Cerebral infarction due to thrombosis of unspecified cerebellar artery,Division of Hematology & Oncology,2,Adult,2011,4,9,04/09/2011,Q2,3034,9025,NEW HAMPSHIRE,Female
+CO,30,Nontraumatic subacute subdural hemorrhage,Division of Chest,1,Adult,2011,4,5,04/05/2011,Q2,60,995,COLORADO,Male
+AZ,30,"Nontraumatic subdural hemorrhage, unspecified",Division of Chest,2,Adult,2011,4,4,04/04/2011,Q2,100,1052,ARIZONA,Female
+SD,30,Occlusion and stenosis of left posterior cerebral artery,Division of Chest,1,Adult,2011,4,2,04/02/2011,Q2,276,1430,SOUTH DAKOTA,Male
+MN,60,Cerebral infarction due to thrombosis of right anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,4,2,04/02/2011,Q2,130,786,MINNESOTA,Male
+FL,60,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,4,1,04/01/2011,Q2,61,1065,FLORIDA,Male
+CO,30,Nontraumatic subacute subdural hemorrhage,Division of Chest,1,Adult,2011,3,28,03/28/2011,Q1,59,995,COLORADO,Male
+VT,14,Cerebral infarction due to embolism of right anterior cerebral artery,Division of Cardiology,1,Adult,2011,3,28,03/28/2011,Q1,113,841,VERMONT,Male
+DE,60,Cerebral infarction due to thrombosis of right vertebral artery,Division of Hematology & Oncology,2,Adult,2011,3,27,03/27/2011,Q1,2683,7458,DELAWARE,Female
+KS,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,Division of Cardiology,1,Adult,2011,3,26,03/26/2011,Q1,209,1169,KANSAS,Male
+LA,30,Occlusion and stenosis of right middle cerebral artery,Division of Cardiology,1,Adult,2011,3,26,03/26/2011,Q1,236,1633,LOUISIANA,Male
+OH,30,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Chest,1,Adult,2011,3,26,03/26/2011,Q1,142,784,OHIO,Male
+SD,30,Occlusion and stenosis of left posterior cerebral artery,Division of Chest,1,Adult,2011,3,26,03/26/2011,Q1,276,1430,SOUTH DAKOTA,Male
+GA,60,Cerebral infarction due to thrombosis of unspecified vertebral artery,Division of Hematology & Oncology,2,Adult,2011,3,25,03/25/2011,Q1,2842,6186,GEORGIA,Female
+CT,45,Cerebral infarction due to thrombosis of unspecified cerebellar artery,Division of Cardiology,1,Adult,2011,3,24,03/24/2011,Q1,3619,13026,CONNECTICUT,Male
+WY,60,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,3,23,03/23/2011,Q1,90,1048,WYOMING,Male
+AL,60,Cerebral infarction due to thrombosis of other precerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,3,21,03/21/2011,Q1,32,669,ALABAMA,Male
+NC,60,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,3,20,03/20/2011,Q1,162,841,NORTH CAROLINA,Female
+WY,60,Occlusion and stenosis of left anterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,3,18,03/18/2011,Q1,766,2577,WYOMING,Female
+MD,60,Cerebral infarction due to thrombosis of right middle cerebral artery,Division of Hematology & Oncology,1,Adult,2011,3,18,03/18/2011,Q1,113,646,MARYLAND,Male
+MI,60,Cerebral infarction due to thrombosis of unspecified middle cerebral artery,Division of Hematology & Oncology,1,Adult,2011,3,17,03/17/2011,Q1,126,902,MICHIGAN,Male
+HI,30,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery,Division of Cardiology,1,Adult,2011,3,16,03/16/2011,Q1,184,1037,HAWAII,Male
+OR,30,Occlusion and stenosis of right anterior cerebral artery,Division of Chest,1,Adult,2011,3,16,03/16/2011,Q1,149,756,OREGON,Male
+CA,60,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,3,16,03/16/2011,Q1,46,592,CALIFORNIA,Male
+FL,60,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,3,16,03/16/2011,Q1,61,1065,FLORIDA,Male
+NM,30,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",Division of Chest,1,Youth,2011,3,15,03/15/2011,Q1,46,429,NEW MEXICO,Male
+UT,60,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,3,15,03/15/2011,Q1,58,875,UTAH,Female
+AL,45,Cerebral infarction due to embolism of right cerebellar artery,Division of Cardiology,2,Adult,2011,3,14,03/14/2011,Q1,2752,10764,ALABAMA,Female
+MS,30,Occlusion and stenosis of right posterior cerebral artery,Division of Chest,1,Youth,2011,3,13,03/13/2011,Q1,33,276,MISSISSIPPI,Male
+NJ,30,Occlusion and stenosis of unspecified cerebral artery,Division of Chest,1,Youth,2011,3,13,03/13/2011,Q1,46,419,NEW JERSEY,Male
+TX,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,Division of Cardiovascular Surgery,2,Adult,2011,3,10,03/10/2011,Q1,51,1208,TEXAS,Female
+MP,60,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery,Division of Hematology & Oncology,1,Adult,2011,3,10,03/10/2011,Q1,137,1057,Sankattan Siha Na Islas Mari?nas,Male
+GU,60,Occlusion and stenosis of bilateral anterior cerebral arteries,Division of Cardiovascular Surgery,1,Adult,2011,3,9,03/09/2011,Q1,69,1012,Guam,Male
+WV,60,Occlusion and stenosis of right anterior cerebral artery,Division of Hematology & Oncology,2,Adult,2011,3,7,03/07/2011,Q1,764,3736,WEST VIRGINIA,Female
+WY,14,Cerebral infarction due to embolism of left posterior cerebral artery,Division of Cardiology,1,Adult,2011,3,6,03/06/2011,Q1,2634,14519,WYOMING,Male
+MA,30,Occlusion and stenosis of left middle cerebral artery,Division of Cardiology,1,Adult,2011,3,5,03/05/2011,Q1,253,1713,MASSACHUSETTS,Male
+UT,14,Cerebral infarction due to embolism of right middle cerebral artery,Division of Cardiology,1,Adult,2011,3,5,03/05/2011,Q1,100,1057,UTAH,Male
+AZ,30,"Nontraumatic subdural hemorrhage, unspecified",Division of Chest,2,Adult,2011,3,3,03/03/2011,Q1,14,1052,ARIZONA,Female
+MN,30,Occlusion and stenosis of left anterior cerebral artery,Division of Chest,1,Youth,2011,3,3,03/03/2011,Q1,29,253,MINNESOTA,Male
+VI,60,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,3,3,03/03/2011,Q1,63,1174,VIRGIA ISLAND,Female
+AR,45,Cerebral infarction due to embolism of left cerebellar artery,Division of Cardiology,2,Adult,2011,3,2,03/02/2011,Q1,2801,14259,ARKANSAS,Female
+NH,60,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Chest,2,Adult,2011,2,25,02/25/2011,Q1,99,1048,NEW HAMPSHIRE,Female
+PA,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,2,25,02/25/2011,Q1,4794,13026,PENNSYLVANIA,Female
+OR,60,Cerebral infarction due to embolism of unspecified precerebral artery,Division of Chest,2,Adult,2011,2,24,02/24/2011,Q1,59,592,OREGON,Female
+SD,60,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery,Division of Cardiology,1,Adult,2011,2,24,02/24/2011,Q1,82,646,SOUTH DAKOTA,Male
+TX,14,Cerebral infarction due to embolism of unspecified cerebral artery,Division of Cardiology,1,Adult,2011,2,22,02/22/2011,Q1,88,902,TEXAS,Male
+AL,30,Other sequelae of nontraumatic intracerebral hemorrhage,Division of Chest,2,Adult,2011,2,20,02/20/2011,Q1,99,649,ALABAMA,Female
+OH,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,2,20,02/20/2011,Q1,3934,14259,OHIO,Female
+DC,30,Occlusion and stenosis of basilar artery,Division of Chest,1,Adult,2011,2,18,02/18/2011,Q1,140,841,DISTRICT OF COLUMBIA,Male
+NV,60,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,2,15,02/15/2011,Q1,3702,10764,NEVADA,Female
+HI,30,Cerebral infarction due to thrombosis of basilar artery,Division of Chest,2,Adult,2011,2,11,02/11/2011,Q1,1210,14565,HAWAII,Female
+NJ,60,Cerebral infarction due to thrombosis of other cerebral artery,Division of Hematology & Oncology,2,Adult,2011,2,11,02/11/2011,Q1,3675,14519,NEW JERSEY,Female
+NE,60,Occlusion and stenosis of bilateral posterior cerebral arteries,Division of Cardiology,2,Adult,2011,2,10,02/10/2011,Q1,2284,7280,State of Nebraska,Female
+MP,60,Cerebral infarction due to thrombosis of right carotid artery,Division of Chest,1,Adult,2011,2,8,02/08/2011,Q1,72,1174,Sankattan Siha Na Islas Mari?nas,Male
+NV,60,Occlusion and stenosis of unspecified precerebral artery,Division of Chest,2,Adult,2011,2,7,02/07/2011,Q1,50,669,NEVADA,Female
+NV,60,Cerebral infarction due to thrombosis of unspecified cerebral artery,Division of Cardiology,2,Adult,2011,2,5,02/05/2011,Q1,3122,7891,NEVADA,Female
+OH,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,2,4,02/04/2011,Q1,3934,14259,OHIO,Female
+NC,60,Occlusion and stenosis of other cerebral arteries,Division of Cardiology,2,Adult,2011,2,1,02/01/2011,Q1,2145,7458,NORTH CAROLINA,Female
+NH,60,Occlusion and stenosis of unspecified posterior cerebral artery,Division of Cardiology,2,Adult,2011,2,1,02/01/2011,Q1,2359,6186,NEW HAMPSHIRE,Female
+ID,60,Occlusion and stenosis of left posterior cerebral artery,Division of Cardiovascular Surgery,1,Adult,2011,1,25,01/25/2011,Q1,207,2465,IDAHO,Male
+GU,60,Cerebral infarction due to embolism of right vertebral artery,Division of Hematology & Oncology,1,Adult,2011,1,25,01/25/2011,Q1,2863,7280,Guam,Male
+TN,60,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Hematology & Oncology,1,Adult,2011,1,22,01/22/2011,Q1,96,1065,TENNESSEE,Male
+MO,60,Occlusion and stenosis of other precerebral arteries,Division of Chest,1,Adult,2011,1,21,01/21/2011,Q1,63,875,MISSOURI,Male
+ID,60,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries,Division of Hematology & Oncology,1,Adult,2011,1,15,01/15/2011,Q1,3717,7891,IDAHO,Male
+TX,60,Occlusion and stenosis of right vertebral artery,Division of Hematology & Oncology,1,Adult,2011,1,10,01/10/2011,Q1,98,1012,TEXAS,Male
+KY,60,Dissection of thoracoabdominal aorta,Division of Cardiovascular Surgery,2,Adult,2011,1,9,01/09/2011,Q1,262,2577,KENTUCKY,Female
+VT,60,Occlusion and stenosis of left middle cerebral artery,Division of Hematology & Oncology,1,Adult,2011,1,8,01/08/2011,Q1,625,2465,VERMONT,Male
+ID,30,Cerebral infarction due to embolism of other precerebral artery,Division of Chest,2,Adult,2011,1,7,01/07/2011,Q1,3413,14194,IDAHO,Female
+KY,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Division of Chest,2,Adult,2011,1,7,01/07/2011,Q1,4241,13026,KENTUCKY,Female
+MN,60,Occlusion and stenosis of unspecified carotid artery,Division of Chest,1,Adult,2011,1,7,01/07/2011,Q1,32,1208,MINNESOTA,Male
+IA,30,Cerebral infarction due to embolism of basilar artery,Division of Chest,2,Adult,2011,1,5,01/05/2011,Q1,3235,10686,IOWA,Female
+MD,60,Occlusion and stenosis of left anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,1,4,01/04/2011,Q1,289,3886,MARYLAND,Female
+WA,60,Occlusion and stenosis of bilateral middle cerebral arteries,Division of Hematology & Oncology,1,Adult,2011,1,2,01/02/2011,Q1,708,3886,WASHINGTON,Male
+MA,60,Occlusion and stenosis of right anterior cerebral artery,Division of Cardiovascular Surgery,2,Adult,2011,1,1,01/01/2011,Q1,285,3736,MASSACHUSETTS,Female
+AR,30,Cerebral infarction due to thrombosis of basilar artery,Division of Cardiology,1,Adult,2010,11,26,11/26/2010,Q4,40,597,ARKANSAS,Male
+CA,30,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,Division of Cardiology,1,Adult,2010,11,25,11/25/2010,Q4,57,896,CALIFORNIA,Male
+OK,14,Occlusion and stenosis of right vertebral artery,Division of Cardiology,2,Adult,2010,11,22,11/22/2010,Q4,1498,3864,OKLAHOMA,Female
+CO,30,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,Division of Cardiology,1,Adult,2010,11,21,11/21/2010,Q4,30,1288,COLORADO,Male
+NV,14,Other nontraumatic intracerebral hemorrhage,Division of Cardiology,2,Adult,2010,11,21,11/21/2010,Q4,679,2534,NEVADA,Female
+TX,14,Cerebral infarction due to thrombosis of right vertebral artery,Division of Cardiology,1,Adult,2010,11,20,11/20/2010,Q4,2996,7059,TEXAS,Male
+NY,14,"Nontraumatic intracerebral hemorrhage, unspecified",Division of Cardiology,2,Adult,2010,11,19,11/19/2010,Q4,697,2758,NEW YORK,Female
+PR,14,Occlusion and stenosis of unspecified vertebral artery,Division of Cardiology,2,Adult,2010,11,19,11/19/2010,Q4,1106,7073,PUERTO RICO,Female
+WA,14,Cerebral infarction due to embolism of unspecified vertebral artery,Division of Chest,1,Adult,2010,11,18,11/18/2010,Q4,55,461,WASHINGTON,Male
+ND,30,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified",Division of Cardiology,1,Adult,2010,11,17,11/17/2010,Q4,638,3723,NORTH DAKOTA,Male
+UT,14,Cerebral infarction due to thrombosis of left vertebral artery,Division of Chest,1,Adult,2010,11,17,11/17/2010,Q4,3107,7199,UTAH,Male
+NM,14,"Nontraumatic intracerebral hemorrhage, multiple localized",Division of Cardiology,1,Adult,2010,11,8,11/08/2010,Q4,300,4114,NEW MEXICO,Male
+TN,14,Dysphasia following nontraumatic intracerebral hemorrhage,Division of Cardiology,1,Adult,2010,11,7,11/07/2010,Q4,2523,7605,TENNESSEE,Male
+MD,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,1,Adult,2010,11,4,11/04/2010,Q4,64,1004,MARYLAND,Male
+MO,30,Occlusion and stenosis of basilar artery,Division of Cardiology,2,Adult,2010,11,3,11/03/2010,Q4,345,1917,MISSOURI,Female
+ME,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiology,1,Adult,2010,10,27,10/27/2010,Q4,76,1034,MAINE,Male
+HI,30,"Cerebrovascular disease, unspecified",Division of Cardiology,2,Adult,2010,10,14,10/14/2010,Q4,28,495,HAWAII,Female
+DE,30,Occlusion and stenosis of right carotid artery,Division of Cardiology,2,Adult,2010,10,13,10/13/2010,Q4,69,916,DELAWARE,Female
+ID,30,Other sequelae following nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2010,10,11,10/11/2010,Q4,42,589,IDAHO,Female
+LA,30,Cerebral infarction due to embolism of right carotid artery,Division of Cardiology,1,Adult,2010,10,11,10/11/2010,Q4,52,656,LOUISIANA,Male
+DC,30,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Cardiology,2,Adult,2010,10,8,10/08/2010,Q4,32,1233,DISTRICT OF COLUMBIA,Female
+TN,14,Dysphasia following nontraumatic intracerebral hemorrhage,Division of Cardiology,1,Adult,2010,8,25,08/25/2010,Q3,2523,7605,TENNESSEE,Male
+WI,14,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries,Division of Chest,2,Adult,2010,8,24,08/24/2010,Q3,67,533,WISCONSIN,Female
+MS,30,Cerebral infarction due to thrombosis of basilar artery,Division of Cardiology,2,Adult,2010,8,22,08/22/2010,Q3,460,2087,MISSISSIPPI,Female
+OR,14,Occlusion and stenosis of left vertebral artery,Division of Cardiology,2,Adult,2010,8,19,08/19/2010,Q3,1880,4712,OREGON,Female
+ME,30,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,Division of Cardiology,1,Adult,2010,8,17,08/17/2010,Q3,76,1034,MAINE,Male
+NH,30,Nontraumatic intracerebral hemorrhage in cerebellum,Division of Cardiology,1,Adult,2010,8,17,08/17/2010,Q3,661,2641,NEW HAMPSHIRE,Male
+ND,30,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified",Division of Cardiology,1,Adult,2010,8,12,08/12/2010,Q3,338,3723,NORTH DAKOTA,Male
+NM,14,"Nontraumatic intracerebral hemorrhage, multiple localized",Division of Cardiology,1,Adult,2010,8,8,08/08/2010,Q3,668,4114,NEW MEXICO,Male
+VI,14,Cerebral infarction due to embolism of right vertebral artery,Division of Chest,1,Adult,2010,8,8,08/08/2010,Q3,3365,7985,VIRGIA ISLAND,Male
+PR,14,Occlusion and stenosis of unspecified vertebral artery,Division of Cardiology,2,Adult,2010,8,2,08/02/2010,Q3,1200,7073,PUERTO RICO,Female
+IN,30,Cerebral infarction due to thrombosis of right carotid artery,Division of Cardiology,2,Adult,2010,7,28,07/28/2010,Q3,44,506,INDIANA,Female
+GA,30,Occlusion and stenosis of bilateral carotid arteries,Division of Cardiology,1,Adult,2010,7,24,07/24/2010,Q3,84,972,GEORGIA,Male
+KY,30,Cerebral infarction due to thrombosis of unspecified carotid artery,Division of Cardiology,1,Adult,2010,7,15,07/15/2010,Q3,50,642,KENTUCKY,Male
+CO,30,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,Division of Cardiology,1,Adult,2010,7,9,07/09/2010,Q3,29,1288,COLORADO,Male
+MD,30,Cerebral infarction due to embolism of unspecified carotid artery,Division of Cardiology,1,Adult,2010,7,9,07/09/2010,Q3,64,1004,MARYLAND,Male
+DC,30,"Nontraumatic subarachnoid hemorrhage, unspecified",Division of Cardiology,2,Adult,2010,7,7,07/07/2010,Q3,30,1233,DISTRICT OF COLUMBIA,Female
+AL,30,Nontraumatic subarachnoid hemorrhage from left vertebral artery,Division of Cardiology,1,Adult,2010,7,1,07/01/2010,Q3,32,681,ALABAMA,Male
+NE,30,Nontraumatic intracerebral hemorrhage in brain stem,Division of Cardiology,1,Adult,2010,6,28,06/28/2010,Q2,650,3724,State of Nebraska,Male
+PA,14,Occlusion and stenosis of bilateral vertebral arteries,Division of Cardiology,2,Adult,2010,6,27,06/27/2010,Q2,2082,5142,PENNSYLVANIA,Female
+MP,30,Nontraumatic subarachnoid hemorrhage from left vertebral artery,Division of Cardiology,2,Adult,2010,6,26,06/26/2010,Q2,454,2120,Sankattan Siha Na Islas Mari?nas,Female
+NC,30,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical",Division of Cardiology,1,Adult,2010,6,23,06/23/2010,Q2,588,3875,NORTH CAROLINA,Male
+OH,14,"Nontraumatic intracranial hemorrhage, unspecified",Division of Cardiology,2,Adult,2010,6,13,06/13/2010,Q2,730,2804,OHIO,Female
+MN,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiology,2,Adult,2010,6,8,06/08/2010,Q2,83,1013,MINNESOTA,Female
+RI,14,Unspecified sequelae of nontraumatic intracerebral hemorrhage,Division of Cardiology,1,Adult,2010,6,8,06/08/2010,Q2,1100,7431,RHODE ISLAND,Male
+MA,30,Cerebral infarction due to embolism of left carotid artery,Division of Cardiology,1,Adult,2010,5,23,05/23/2010,Q2,60,666,MASSACHUSETTS,Male
+MI,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Adult,2010,5,20,05/20/2010,Q2,79,1060,MICHIGAN,Female
+IA,30,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2010,5,10,05/10/2010,Q2,40,509,IOWA,Female
+FL,30,Occlusion and stenosis of left carotid artery,Division of Cardiology,2,Adult,2010,4,14,04/14/2010,Q2,69,1042,FLORIDA,Female
+VT,14,Cerebral infarction due to embolism of left vertebral artery,Division of Chest,1,Adult,2010,4,13,04/13/2010,Q2,3534,8260,VERMONT,Male
+AK,30,Occlusion and stenosis of basilar artery,Division of Cardiology,1,Adult,2010,4,11,04/11/2010,Q2,25,697,ALASKA,Male
+CT,30,Other nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2010,4,9,04/09/2010,Q2,31,1169,CONNECTICUT,Female
+SD,14,Aphasia following nontraumatic intracerebral hemorrhage,Division of Cardiology,1,Adult,2010,4,5,04/05/2010,Q2,1120,7236,SOUTH DAKOTA,Male
+NC,30,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical",Division of Cardiology,1,Adult,2010,3,27,03/27/2010,Q1,200,3875,NORTH CAROLINA,Male
+NJ,30,"Nontraumatic intracerebral hemorrhage, intraventricular",Division of Cardiology,1,Adult,2010,3,27,03/27/2010,Q1,666,2577,NEW JERSEY,Male
+GU,30,Occlusion and stenosis of unspecified carotid artery,Division of Cardiology,1,Adult,2010,3,25,03/25/2010,Q1,84,1048,Guam,Male
+IL,30,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",Division of Cardiology,2,Adult,2010,3,19,03/19/2010,Q1,43,669,ILLINOIS,Female
+NE,30,Nontraumatic intracerebral hemorrhage in brain stem,Division of Cardiology,1,Adult,2010,3,18,03/18/2010,Q1,650,3724,State of Nebraska,Male
+AZ,30,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Cardiology,1,Adult,2010,2,28,02/28/2010,Q1,20,1204,ARIZONA,Male
+MN,30,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,Division of Cardiology,2,Adult,2010,2,25,02/25/2010,Q1,83,1013,MINNESOTA,Female
+VA,14,Cerebral infarction due to thrombosis of unspecified vertebral artery,Division of Chest,1,Adult,2010,2,24,02/24/2010,Q1,3308,7891,VIRGINIA,Male
+CT,30,Other nontraumatic subarachnoid hemorrhage,Division of Cardiology,2,Adult,2010,2,11,02/11/2010,Q1,30,1169,CONNECTICUT,Female
+MT,30,Cerebral infarction due to embolism of basilar artery,Division of Cardiology,1,Adult,2010,2,7,02/07/2010,Q1,536,2462,MONTANA,Male
+SD,14,Aphasia following nontraumatic intracerebral hemorrhage,Division of Cardiology,1,Adult,2010,2,7,02/07/2010,Q1,1385,7236,SOUTH DAKOTA,Male
+MI,30,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,Division of Cardiology,2,Adult,2010,1,22,01/22/2010,Q1,79,1060,MICHIGAN,Female
+KS,30,Cerebral infarction due to thrombosis of left carotid artery,Division of Cardiology,1,Adult,2010,1,20,01/20/2010,Q1,45,588,KANSAS,Male
+AS,30,Cerebral infarction due to embolism of basilar artery,Division of Cardiology,1,Adult,2010,1,19,01/19/2010,Q1,51,871,American Samoa,Male
+AZ,30,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,Division of Cardiology,1,Adult,2010,1,18,01/18/2010,Q1,33,1204,ARIZONA,Male
+SC,14,Cognitive deficits following nontraumatic intracerebral hemorrhage,Division of Cardiology,2,Adult,2010,1,17,01/17/2010,Q1,2504,6116,SOUTH CAROLINA,Female
+RI,14,Unspecified sequelae of nontraumatic intracerebral hemorrhage,Division of Cardiology,1,Adult,2010,1,11,01/11/2010,Q1,1271,7431,RHODE ISLAND,Male
